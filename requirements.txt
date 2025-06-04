@@ -4,3 +4,6 @@ faiss-cpu
 PyPDF2
 spacy
 numpy
+datasets
+torch
+accelerate
