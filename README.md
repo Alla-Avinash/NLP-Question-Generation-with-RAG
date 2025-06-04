@@ -1,13 +1,41 @@
+---
+
 # NLP-Question-Generation-with-RAG
 Finetuned a T5-base model to generate questions of various types and difficulty levels based on provided context
 
-You can find more about the model on the Huggingface library 
+
+## This repository contains two major components:
+1. **Fine-tuning pipeline** using T5 on 5 different datasets.
+2. A **CLI-based Retrieval-Augmented Generation (RAG)** system that integrates a retriever with the fine-tuned model for better context-aware question generation.
+
+---
+
+## Project Structure
+
+- `Finetune.ipynb`: Contains all code related to fine-tuning T5, preprocessing, and the datasets used.
+- `T5base_question_generation.py`: CLI program that allows generating questions from a textbook or PDF using RAG (retriever + generator).
+- `requirements.txt`: Contains the required libraries to run the T5base_question_generation.py
+
+## Installation
+
+``` bash
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+```
+
+---
+
+## Hugging Face model card and weights
+
+You can find more about the finetuned model on the Huggingface library 
 https://huggingface.co/Avinash250325/T5BaseQuestionGeneration
 
-Try it out in the Huggingface Spaces
+Try it out in the Huggingface Spaces (without the RAG implementation)
 https://huggingface.co/spaces/Avinash250325/Question_Generation_with_RAG
 
---- 
+
+---
+
 ## Finetuned T5-Base Question Generator Model
 
 This model is a fine-tuned T5 model designed specifically for **automatic question generation** from any given context or passage. It supports different types of questions like **short answer**, **multiple choice question**, and **true or false quesiton**, while also allowing customization by **difficulty level** — easy, medium or hard.
@@ -46,9 +74,9 @@ Educational tools, tutoring platforms, and self-learning systems need a way to *
 - Developers building interactive learning tools  
 - Automated assessment and content enrichment
 
-### Bonus: Retrieval-Augmented Generation (RAG)
+### Retrieval-Augmented Generation (RAG)
 
-A **custom RAG function** is also provided. This enables question generation from larger content sources like textbooks:
+A **custom RAG function** is provided when you run the T5base_question_generation.py which takes in the textbook/ any content that you give it in a pdf format and chunks it and stores it in FAISS index file. This enables question generation from larger content sources like textbooks:
 
 - Input can be a **subheading** or **small excerpt** from a textbook.
 - The model fetches relevant supporting context form the textbook using a retirever.
@@ -58,6 +86,8 @@ This extends the model beyond single-passage generation into more dynamic, scala
 
 
 ---
+
+# More about the model
 
 ## Prompt Format
 
@@ -74,23 +104,7 @@ To generate good quality questions, the model uses a **structured input prompt**
   - `context` – the main passage/content from which questions are generated
 
 
-
-### Helper Function to Create the Prompt
-
-To simplify prompt construction, use this Python function:
-
-```python
-def format_prompt(qtype, difficulty, context, answer=""):
-    """
-    Format input prompt for question generation
-    """
-    answer_part = f"[{answer}]" if answer else ""
-    return f"<extra_id_97>{qtype} <extra_id_98>{difficulty} <extra_id_99>{answer_part} {context}"
-```
-
----
-
-## How to Use the Model
+## How to Use the Model from Huggingface Transformers library
 
 ```python
 from transformers import T5Tokenizer, T5ForConditionalGeneration
@@ -113,4 +127,4 @@ outputs = model.generate(**inputs, max_length=150)
 print(tokenizer.decode(outputs[0], skip_special_tokens=True))
 ```
 
-
+---
