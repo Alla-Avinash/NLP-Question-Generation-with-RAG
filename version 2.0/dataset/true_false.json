@@ -1,0 +1,883 @@
+[
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "tag": "true or false question",
+      "context": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. The process typically occurs in the chloroplasts of plant cells and releases oxygen as a byproduct. Chlorophyll, the green pigment in plants, plays a crucial role in capturing light energy. This energy is then used to convert water and carbon dioxide into glucose, which serves as the plant’s food source.",
+      "question": "Photosynthesis releases oxygen as a byproduct.",
+      "answer": "true"
+    },
+    {
+      "id": 2,
+      "difficulty": "medium",
+      "tag": "true or false question",
+      "context": "The human brain is divided into several regions, each responsible for different functions. The frontal lobe is associated with reasoning, planning, and problem-solving. The parietal lobe processes sensory information like touch and temperature. The occipital lobe is responsible for vision, while the temporal lobe handles auditory information and memory. The brainstem controls vital functions like heart rate and breathing. Despite its complexity, the brain functions as a cohesive unit, integrating data across regions.",
+      "question": "The occipital lobe of the brain is primarily responsible for auditory processing.",
+      "answer": "false"
+    },
+    {
+      "id": 3,
+      "difficulty": "medium",
+      "tag": "true or false question",
+      "context": "Electric vehicles (EVs) are powered by electric motors instead of internal combustion engines. They store energy in rechargeable battery packs and emit no tailpipe pollutants. EVs contribute to reducing greenhouse gas emissions, especially when charged using renewable energy sources. However, the production of batteries involves resource extraction and energy use, which has its own environmental impact. Charging infrastructure and battery life are other challenges facing the widespread adoption of EVs.",
+      "question": "Electric vehicles produce tailpipe emissions similar to gasoline-powered cars.",
+      "answer": "false"
+    },
+    {
+      "id": 4,
+      "difficulty": "hard",
+      "tag": "true or false question",
+      "context": "In computer science, an algorithm is a set of defined steps designed to perform a task or solve a problem. Algorithms must be unambiguous, have a clear stopping point, and produce the correct result. Sorting algorithms, like quicksort and mergesort, are common examples. Efficiency is measured in terms of time and space complexity, typically represented using Big O notation. An optimal algorithm minimizes both time and space requirements.",
+      "question": "Algorithms can be ambiguous and still be considered valid in computer science.",
+      "answer": "false"
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "tag": "true or false question",
+      "context": "Water boils at 100 degrees Celsius at sea level. However, the boiling point of water decreases as altitude increases because atmospheric pressure is lower at higher elevations. This means that water can boil at temperatures below 100°C in mountainous regions. Pressure cookers counteract this by increasing pressure, allowing water to boil at a higher temperature and cook food faster.",
+      "question": "Water boils at a lower temperature at higher altitudes.",
+      "answer": "true"
+    },
+    {
+        "id": 6,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "The Moon orbits Earth at an average distance of about 384,400 kilometers. It takes approximately 27.3 days to complete one orbit. The Moon's gravitational pull causes tides on Earth. It reflects sunlight, which is why we can see it glowing in the night sky. The same side of the Moon always faces Earth due to a phenomenon known as synchronous rotation.",
+        "question": "The Moon reflects sunlight, which allows us to see it from Earth.",
+        "answer": "true"
+      },
+      {
+        "id": 7,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Coral reefs are diverse marine ecosystems built by tiny organisms called coral polyps. These polyps secrete calcium carbonate to form hard skeletons that accumulate and create reef structures. Coral reefs support a vast number of marine species. However, rising sea temperatures and ocean acidification caused by climate change are leading to coral bleaching and reef degradation, threatening their survival.",
+        "question": "Coral reefs are built by marine mammals that live in shallow waters.",
+        "answer": "false"
+      },
+      {
+        "id": 8,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "In the field of cryptography, asymmetric encryption involves a pair of keys: a public key and a private key. The public key is used to encrypt data, while the private key is used to decrypt it. This method enhances security since only the private key holder can read the message. It is commonly used in secure communication protocols like SSL/TLS and in blockchain technology.",
+        "question": "Asymmetric encryption uses the same key for both encryption and decryption.",
+        "answer": "false"
+      },
+      {
+        "id": 9,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Vaccines work by stimulating the immune system to recognize and fight pathogens such as viruses or bacteria. They introduce weakened or inactive parts of the organism into the body, triggering an immune response without causing disease. This prepares the body to respond quickly and effectively if exposed to the real pathogen later.",
+        "question": "Vaccines cause disease by introducing fully active pathogens into the body.",
+        "answer": "false"
+      },
+      {
+        "id": 10,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Photosynthesis requires sunlight, water, and carbon dioxide to produce glucose and oxygen. The process takes place in the chloroplasts of plant cells. Chlorophyll absorbs light energy, which is used to split water molecules and fix carbon dioxide into glucose. This process is crucial for converting solar energy into chemical energy and is the foundation of most food chains.",
+        "question": "Photosynthesis converts sunlight into chemical energy in plants.",
+        "answer": "true"
+      },
+      {
+        "id": 11,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "The Great Wall of China is a series of fortifications built across the historical northern borders of China to protect against various nomadic groups. It stretches over 13,000 miles and was constructed over several centuries, beginning as early as the 7th century BC. The wall is made from various materials, including stone, brick, tamped earth, and wood, depending on the region and era of construction.",
+        "question": "The Great Wall of China is over 13,000 miles long.",
+        "answer": "true"
+      },
+      {
+        "id": 12,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions. It covers more than 60 million square miles and reaches depths of over 36,000 feet in the Mariana Trench. The Pacific Ocean plays a crucial role in global climate patterns and is home to a diverse range of marine life.",
+        "question": "The Atlantic Ocean is the largest ocean on Earth.",
+        "answer": "false"
+      },
+      {
+        "id": 13,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Goldfish are often thought to have a memory span of just a few seconds, but studies have shown that they can remember information for months. They can be trained to perform tasks, recognize their owners, and even distinguish between different shapes and colors.",
+        "question": "Goldfish have a memory span of just three seconds.",
+        "answer": "false"
+      },
+      {
+        "id": 14,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Reinforcement learning is a machine learning approach where agents learn to make decisions by performing actions and receiving feedback in the form of rewards or penalties. This method is used in various applications, including robotics, game playing, and autonomous systems. It differs from supervised learning in that it does not require labeled input/output pairs and instead relies on the agent's interactions with the environment.",
+        "question": "Reinforcement learning requires labeled input/output pairs for training.",
+        "answer": "false"
+      },
+      {
+        "id": 15,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "The Eiffel Tower, located in Paris, France, was constructed between 1887 and 1889 as the entrance to the 1889 World's Fair. Standing at 300 meters tall, it was the tallest man-made structure in the world until the completion of the Chrysler Building in New York in 1930. The tower is made of iron and has become a global cultural icon of France.",
+        "question": "The Eiffel Tower was the tallest man-made structure in the world until 1930.",
+        "answer": "true"
+      },
+      {
+        "id": 16,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Photosynthesis is the process through which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. This process generally involves the green pigment chlorophyll and generates oxygen as a by-product. It is the foundation of life on Earth, supporting the majority of life forms directly or indirectly.",
+        "question": "Photosynthesis produces oxygen as a by-product.",
+        "answer": "true"
+    },
+    {
+        "id": 17,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Saturn is the sixth planet from the Sun and is best known for its prominent ring system. These rings are made up of countless small particles of ice and rock, which range in size from micrometers to meters. Saturn is a gas giant, and like Jupiter, it lacks a solid surface.",
+        "question": "Saturn's rings are composed mainly of metal and lava.",
+        "answer": "false"
+    },
+    {
+        "id": 18,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Machine learning algorithms can be broadly categorized into supervised, unsupervised, and reinforcement learning. Supervised learning involves labeled data, while unsupervised learning does not use labels. Reinforcement learning differs by allowing agents to learn by interacting with the environment and receiving feedback in the form of rewards or penalties.",
+        "question": "Unsupervised learning involves feedback in the form of rewards.",
+        "answer": "false"
+    },
+    {
+        "id": 19,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "The Amazon rainforest, often referred to as the lungs of the Earth, plays a critical role in absorbing carbon dioxide and producing oxygen. It is home to an incredible diversity of plant and animal species and helps regulate the global climate. Deforestation poses a significant threat to this vital ecosystem.",
+        "question": "The Amazon rainforest contributes to regulating the global climate.",
+        "answer": "true"
+    },
+    {
+        "id": 20,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Neural networks are a fundamental part of deep learning, a subfield of machine learning. They are composed of layers of interconnected nodes, or 'neurons', that can learn to recognize patterns in data. Deep neural networks can model complex relationships and are used in applications such as image and speech recognition.",
+        "question": "Neural networks are only used for image recognition tasks.",
+        "answer": "false"
+    },
+    {
+        "id": 21,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "The Moon orbits the Earth and reflects sunlight, which is why we see it illuminated at night. It affects tides due to its gravitational pull. The same side of the Moon always faces Earth because of synchronous rotation.",
+        "question": "The Moon reflects sunlight, which is why we see it lit at night.",
+        "answer": "true"
+    },
+    {
+        "id": 22,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Vaccines help the immune system recognize and fight pathogens more effectively. They introduce a harmless component of a virus or bacteria, prompting the body to build memory cells for faster response upon future exposure.",
+        "question": "Vaccines work by weakening the immune system to fight future infections.",
+        "answer": "false"
+    },
+    {
+        "id": 23,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Climate change refers to long-term shifts in temperatures and weather patterns. While natural causes contribute, human activities like burning fossil fuels have accelerated the process, increasing greenhouse gas emissions.",
+        "question": "Climate change has only natural causes and no human influence.",
+        "answer": "false"
+    },
+    {
+        "id": 24,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "The human heart has four chambers: two atria and two ventricles. It pumps oxygen-rich blood to the body and returns oxygen-poor blood to the lungs for reoxygenation.",
+        "question": "The human heart contains four chambers.",
+        "answer": "true"
+    },
+    {
+        "id": 25,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Electricity flows through conductors, which are materials that allow the movement of electrons. Metals like copper and aluminum are commonly used as conductors due to their low resistance.",
+        "question": "Plastic is a good conductor of electricity.",
+        "answer": "false"
+    },
+    {
+        "id": 26,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Water boils at 100 degrees Celsius at standard atmospheric pressure. The boiling point can change depending on altitude and atmospheric conditions.",
+        "question": "Water always boils at 100 degrees Celsius, regardless of altitude.",
+        "answer": "false"
+    },
+    {
+        "id": 27,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Photosynthesis converts carbon dioxide and water into glucose and oxygen using sunlight. The process takes place in the chloroplasts of plant cells and is essential for sustaining life on Earth.",
+        "question": "Photosynthesis occurs in mitochondria of plant cells.",
+        "answer": "false"
+    },
+    {
+        "id": 28,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Sound travels in waves and requires a medium like air, water, or solids to propagate. It cannot travel through a vacuum since there's no medium for the vibrations.",
+        "question": "Sound can travel through a vacuum.",
+        "answer": "false"
+    },
+    {
+        "id": 29,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Gravity is the force that attracts objects with mass toward each other. On Earth, it keeps us grounded and affects everything from falling objects to planetary motion.",
+        "question": "Gravity is stronger on the Moon than on Earth.",
+        "answer": "false"
+    },
+    {
+        "id": 30,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Digital devices store information in binary, using only two states: 0 and 1. These bits combine to represent complex data, from numbers to images and videos.",
+        "question": "Digital data is stored using decimal digits.",
+        "answer": "false"
+    }, 
+    {
+        "id": 31,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "The Earth revolves around the Sun once every 365.25 days, creating the basis for our calendar year. This motion, combined with the Earth's tilted axis, causes the seasons. The Earth's rotation on its axis every 24 hours results in day and night.",
+        "question": "The Earth's revolution around the Sun is responsible for the change in seasons.",
+        "answer": "true"
+    },
+    {
+        "id": 32,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "A healthy diet consists of a balanced intake of carbohydrates, proteins, fats, vitamins, and minerals. Consuming too much sugar or saturated fats can lead to health issues such as obesity, heart disease, and diabetes. Proper hydration is also essential.",
+        "question": "A diet high in saturated fats is recommended for a healthy heart.",
+        "answer": "false"
+    },
+    {
+        "id": 33,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Photosynthesis requires light, water, and carbon dioxide. Chlorophyll in the plant cells captures sunlight to convert carbon dioxide and water into glucose and oxygen. This process occurs in the chloroplasts of green plants.",
+        "question": "Chlorophyll is responsible for absorbing carbon dioxide during photosynthesis.",
+        "answer": "false"
+    },
+    {
+        "id": 34,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Lightning is a natural electrical discharge caused by the imbalance of positive and negative charges within clouds or between the cloud and the ground. Thunder is the sound produced by the rapid expansion of air surrounding a lightning bolt.",
+        "question": "Thunder is a direct result of lightning.",
+        "answer": "true"
+    },
+    {
+        "id": 35,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Batteries store chemical energy and convert it into electrical energy. They consist of one or more electrochemical cells, each with a positive electrode (cathode), a negative electrode (anode), and an electrolyte between them.",
+        "question": "The cathode in a battery is the negatively charged terminal.",
+        "answer": "false"
+    },
+    {
+        "id": 36,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Volcanoes are openings in the Earth's crust through which magma, gases, and ash escape. They are typically found at tectonic plate boundaries and can shape landscapes and affect climates through the release of materials into the atmosphere.",
+        "question": "Volcanoes are commonly located far from tectonic plate boundaries.",
+        "answer": "false"
+    },
+    {
+        "id": 37,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "An eclipse occurs when one celestial body moves into the shadow of another. A solar eclipse happens when the Moon blocks the Sun, and a lunar eclipse happens when the Earth casts its shadow on the Moon.",
+        "question": "A solar eclipse happens when the Moon passes between the Earth and the Sun.",
+        "answer": "true"
+    },
+    {
+        "id": 38,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Antibiotics are used to treat bacterial infections, not viral ones. Overuse or misuse of antibiotics can lead to antibiotic resistance, where bacteria evolve to withstand treatment, posing serious global health threats.",
+        "question": "Antibiotics are effective against viruses like the flu.",
+        "answer": "false"
+    },
+    {
+        "id": 39,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Air pressure decreases with increasing altitude because the density of air molecules is lower at higher elevations. This is why it becomes harder to breathe at the top of high mountains.",
+        "question": "Air pressure increases as you climb higher above sea level.",
+        "answer": "false"
+    },
+    {
+        "id": 40,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "The digestive system is responsible for breaking down food, absorbing nutrients, and eliminating waste. It includes organs such as the mouth, stomach, intestines, and liver.",
+        "question": "The human liver is part of the digestive system.",
+        "answer": "true"
+    },
+    {
+        "id": 41,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "The Sahara Desert is the largest hot desert in the world, covering much of North Africa. Despite its extreme environment, it supports diverse life, including cacti, rodents, and reptiles adapted to arid conditions.",
+        "question": "The Sahara Desert is the coldest desert in the world.",
+        "answer": "false"
+    },
+    {
+        "id": 42,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Friction is the resistance that one surface or object encounters when moving over another. It generates heat and can be both useful (as in brakes) and undesirable (as in engine wear).",
+        "question": "Friction produces heat when two surfaces rub against each other.",
+        "answer": "true"
+    },
+    {
+        "id": 43,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "The pancreas plays a vital role in regulating blood sugar levels by producing insulin and glucagon. These hormones help maintain glucose homeostasis in the body.",
+        "question": "Insulin is produced by the liver to control blood sugar levels.",
+        "answer": "false"
+    },
+    {
+        "id": 44,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Recycling helps reduce waste, conserve resources, and lower greenhouse gas emissions. Commonly recycled materials include paper, plastic, metal, and glass.",
+        "question": "Recycling helps in reducing the amount of waste sent to landfills.",
+        "answer": "true"
+    },
+    {
+        "id": 45,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Einstein's theory of general relativity describes gravity not as a force but as the warping of spacetime by mass. Massive objects like planets and stars bend the fabric of spacetime, affecting the motion of other bodies.",
+        "question": "General relativity describes gravity as a force acting between two masses.",
+        "answer": "false"
+    },
+    {
+        "id": 46,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Plants absorb carbon dioxide from the atmosphere and release oxygen during the process of photosynthesis. This helps maintain atmospheric balance and supports life on Earth.",
+        "question": "Plants take in carbon dioxide and release oxygen.",
+        "answer": "true"
+    },
+    {
+        "id": 47,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "The Internet is a global network of computers that communicate using standardized protocols. It allows data sharing, email communication, web browsing, and more.",
+        "question": "The Internet consists of isolated local networks with no global connectivity.",
+        "answer": "false"
+    },
+    {
+        "id": 48,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Magnets produce a magnetic field that can attract ferromagnetic materials like iron. The strength and direction of the field depend on the magnet’s shape and composition.",
+        "question": "Magnets repel all types of metals equally.",
+        "answer": "false"
+    },
+    {
+        "id": 49,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Blood is pumped by the heart through a network of arteries, veins, and capillaries. Oxygenated blood travels from the heart to the body via arteries, while veins return deoxygenated blood to the heart.",
+        "question": "Arteries carry blood back to the heart.",
+        "answer": "false"
+    },
+    {
+        "id": 50,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Sound is a mechanical wave that travels through a medium such as air, water, or solid. The speed of sound varies depending on the medium’s density and temperature.",
+        "question": "Sound cannot travel through a vacuum because it needs a medium.",
+        "answer": "true"
+    },
+    {
+        "id": 51,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Machine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed.",
+        "question": "Machine learning is a subset of artificial intelligence.",
+        "answer": "true"
+      },
+      {
+        "id": 52,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Supervised learning involves training a model on a labeled dataset, where each training example is paired with an output label.",
+        "question": "Supervised learning uses unlabeled data for training.",
+        "answer": "false"
+      },
+      {
+        "id": 53,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Unsupervised learning deals with unlabeled data, aiming to find hidden patterns or intrinsic structures within the input data.",
+        "question": "Unsupervised learning requires labeled data.",
+        "answer": "false"
+      },
+      {
+        "id": 54,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Reinforcement learning involves an agent learning to make decisions by performing actions and receiving feedback in the form of rewards or penalties.",
+        "question": "Reinforcement learning agents learn solely from labeled datasets.",
+        "answer": "false"
+      },
+      {
+        "id": 55,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Overfitting occurs when a machine learning model learns the training data too well, including its noise and outliers, leading to poor generalization to new data.",
+        "question": "Overfitting leads to poor performance on unseen data.",
+        "answer": "true"
+      },
+      {
+        "id": 56,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Decision trees can be prone to overfitting, especially when they are deep and complex, capturing noise in the training data.",
+        "question": "Decision trees are immune to overfitting.",
+        "answer": "false"
+      },
+      {
+        "id": 57,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "In reinforcement learning, the exploration-exploitation trade-off refers to the dilemma of choosing between exploring new actions to discover their effects and exploiting known actions that yield high rewards.",
+        "question": "The exploration-exploitation trade-off is irrelevant in reinforcement learning.",
+        "answer": "false"
+      },
+      {
+        "id": 58,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "K-means clustering is an unsupervised learning algorithm used to partition data into distinct groups based on feature similarity.",
+        "question": "K-means is a supervised learning algorithm.",
+        "answer": "false"
+      },
+      {
+        "id": 59,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Gradient descent is an optimization algorithm used to minimize the loss function in machine learning models by iteratively updating parameters in the opposite direction of the gradient.",
+        "question": "Gradient descent helps in minimizing the loss function.",
+        "answer": "true"
+      },
+      {
+        "id": 60,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Q-learning is a model-free reinforcement learning algorithm that seeks to learn the value of an action in a particular state.",
+        "question": "Q-learning requires a model of the environment to function.",
+        "answer": "false"
+      },
+      {
+        "id": 61,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Support Vector Machines (SVM) are supervised learning models used for classification and regression tasks.",
+        "question": "SVMs are used for supervised learning tasks.",
+        "answer": "true"
+      },
+      {
+        "id": 62,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "In machine learning, a confusion matrix is a table used to describe the performance of a classification model on a set of test data for which the true values are known.",
+        "question": "A confusion matrix is used to evaluate regression models.",
+        "answer": "false"
+      },
+      {
+        "id": 63,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "The Bellman equation provides a recursive decomposition for the value function in dynamic programming and reinforcement learning.",
+        "question": "The Bellman equation is unrelated to reinforcement learning.",
+        "answer": "false"
+      },
+      {
+        "id": 64,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Naive Bayes classifiers assume strong independence between features, simplifying the computation of probabilities.",
+        "question": "Naive Bayes assumes independence between features.",
+        "answer": "true"
+      },
+      {
+        "id": 65,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "In reinforcement learning, the reward signal is used to evaluate the immediate benefit of an action taken by the agent.",
+        "question": "The reward signal in reinforcement learning evaluates the immediate benefit of an action.",
+        "answer": "true"
+      },
+      {
+        "id": 66,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Policy gradient methods in reinforcement learning directly adjust the parameters of the policy in order to maximize expected rewards.",
+        "question": "Policy gradient methods adjust value functions instead of policies.",
+        "answer": "false"
+      },
+      {
+        "id": 67,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables.",
+        "question": "Linear regression models the relationship between variables.",
+        "answer": "true"
+      },
+      {
+        "id": 68,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "In machine learning, feature scaling is a technique used to normalize the range of independent variables or features of data.",
+        "question": "Feature scaling is unnecessary when using distance-based algorithms.",
+        "answer": "false"
+      },
+      {
+        "id": 69,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Deep Q-Networks (DQNs) combine Q-learning with deep neural networks to handle high-dimensional input spaces in reinforcement learning tasks.",
+        "question": "DQNs are used to approximate value functions in reinforcement learning.",
+        "answer": "true"
+      },
+      {
+        "id": 70,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Clustering is an unsupervised learning technique used to group similar data points together based on feature similarity.",
+        "question": "Clustering is a supervised learning technique.",
+        "answer": "false"
+      },
+      {
+        "id": 71,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Reinforcement learning agents make decisions based on cumulative rewards over time. In dynamic environments, agents must also adapt to changes in reward structures.",
+        "question": "Reinforcement learning agents ignore reward changes in dynamic environments.",
+        "answer": "false"
+      },
+      {
+        "id": 72,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "The Bellman equation provides a recursive formula for calculating value functions. Policy iteration algorithms depend on evaluating and improving policies using these value estimates.",
+        "question": "Policy iteration uses value functions derived from the Bellman equation.",
+        "answer": "true"
+      },
+      {
+        "id": 73,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "In machine learning, data normalization ensures that features contribute equally. Decision trees are generally insensitive to feature scaling.",
+        "question": "Feature scaling is essential for decision trees to perform well.",
+        "answer": "false"
+      },
+      {
+        "id": 74,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Experience replay buffers store past interactions for reuse in reinforcement learning. Deep Q-Networks leverage this buffer to stabilize learning through mini-batch updates.",
+        "question": "Deep Q-Networks use experience replay to improve training stability.",
+        "answer": "true"
+      },
+      {
+        "id": 75,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Convolutional Neural Networks (CNNs) are widely used in image recognition. These networks capture spatial hierarchies using filters applied across pixel regions.",
+        "question": "CNNs are mainly used for processing audio signals.",
+        "answer": "false"
+      },
+      {
+        "id": 76,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Softmax functions are typically used in classification to produce a probability distribution. They appear in the output layer of neural networks dealing with multi-class classification.",
+        "question": "The softmax function converts logits into a probability distribution.",
+        "answer": "true"
+      },
+      {
+        "id": 77,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Actor-Critic methods combine policy-based and value-based learning approaches. These methods are known for reducing variance while maintaining convergence speed.",
+        "question": "Actor-Critic methods can reduce variance in reinforcement learning updates.",
+        "answer": "true"
+      },
+      {
+        "id": 78,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Transfer learning allows models trained on one task to adapt to another. Fine-tuning involves modifying the pre-trained weights on the new task’s data.",
+        "question": "Transfer learning and fine-tuning are unrelated concepts.",
+        "answer": "false"
+      },
+      {
+        "id": 79,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Dropout is a regularization technique that randomly deactivates neurons during training. This prevents overfitting by promoting model robustness.",
+        "question": "Dropout helps prevent overfitting in neural networks.",
+        "answer": "true"
+      },
+      {
+        "id": 80,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Temporal-Difference learning updates values based on bootstrapped estimates. It combines aspects of Monte Carlo methods and dynamic programming.",
+        "question": "TD learning uses bootstrapped estimates rather than full episode returns.",
+        "answer": "true"
+      },
+      {
+        "id": 81,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "In classification problems, precision measures how many predicted positives are true positives. Recall, on the other hand, measures how many actual positives were correctly identified.",
+        "question": "Precision and recall measure the same aspect of classification performance.",
+        "answer": "false"
+      },
+      {
+        "id": 82,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Supervised learning requires labeled data for training. The goal is to map inputs to known outputs based on the training set.",
+        "question": "Supervised learning relies on labeled datasets.",
+        "answer": "true"
+      },
+      {
+        "id": 83,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Batch normalization helps accelerate deep network training. It normalizes layer inputs to reduce internal covariate shift.",
+        "question": "Batch normalization slows down training in deep neural networks.",
+        "answer": "false"
+      },
+      {
+        "id": 84,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "The REINFORCE algorithm updates policy parameters using sampled returns. It’s known for having high variance in gradient estimates.",
+        "question": "REINFORCE typically produces low-variance policy gradients.",
+        "answer": "false"
+      },
+      {
+        "id": 85,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "A loss function quantifies the difference between predicted and true values. Models aim to minimize this loss during training.",
+        "question": "Loss functions guide the training of machine learning models.",
+        "answer": "true"
+      },
+      {
+        "id": 86,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "ReLU is a non-linear activation function that outputs zero for negative inputs. It has become popular for its simplicity and efficiency in deep networks.",
+        "question": "ReLU activation outputs zero for negative values.",
+        "answer": "true"
+      },
+      {
+        "id": 87,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Markov Decision Processes (MDPs) provide a mathematical framework for decision-making in stochastic environments. The memoryless property of MDPs implies that future states depend only on the current state and action.",
+        "question": "In an MDP, future states depend on the entire history of states and actions.",
+        "answer": "false"
+      },
+      {
+        "id": 88,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Early stopping is used to prevent overfitting during training. It halts training when performance on a validation set stops improving.",
+        "question": "Early stopping continues training as long as training loss decreases.",
+        "answer": "false"
+      },
+      {
+        "id": 89,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "K-Nearest Neighbors (KNN) is a lazy learner that classifies instances based on the majority label among the k closest training examples.",
+        "question": "KNN makes predictions using nearby labeled data points.",
+        "answer": "true"
+      },
+      {
+        "id": 90,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Long Short-Term Memory (LSTM) networks address the vanishing gradient problem. They include gating mechanisms to control information flow.",
+        "question": "LSTM networks suffer from the vanishing gradient problem due to lack of gating mechanisms.",
+        "answer": "false"
+      },
+      {
+        "id": 91,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "The Eiffel Tower is located in Paris, France. It was initially criticized by artists during its construction.",
+        "question": "The Eiffel Tower faced criticism from artists when it was being built.",
+        "answer": "true"
+      },
+      {
+        "id": 92,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Water boils at 100°C at sea level. High altitudes reduce atmospheric pressure, causing water to boil at a lower temperature.",
+        "question": "Water boils at a higher temperature at higher altitudes.",
+        "answer": "false"
+      },
+      {
+        "id": 93,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "The Amazon rainforest is the largest tropical rainforest in the world. It plays a major role in regulating the Earth’s oxygen and carbon dioxide balance.",
+        "question": "The Amazon rainforest significantly contributes to Earth's oxygen balance.",
+        "answer": "true"
+      },
+      {
+        "id": 94,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "The human brain has approximately 86 billion neurons. Most brain development occurs before the age of five.",
+        "question": "Most neurons are generated during adulthood.",
+        "answer": "false"
+      },
+      {
+        "id": 95,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Penguins are flightless birds that live primarily in the Southern Hemisphere. Emperor penguins are the largest of all penguin species.",
+        "question": "Emperor penguins are the largest species of penguins.",
+        "answer": "true"
+      },
+      {
+        "id": 96,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Solar panels convert sunlight into electricity using photovoltaic cells. They are commonly used in remote areas without access to the grid.",
+        "question": "Solar panels are often used in places with no electricity grid access.",
+        "answer": "true"
+      },
+      {
+        "id": 97,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Mount Everest is the highest point on Earth above sea level. It lies in the Himalayan mountain range, straddling the border between Nepal and China.",
+        "question": "Mount Everest lies between India and Bhutan.",
+        "answer": "false"
+      },
+      {
+        "id": 98,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "The internet was originally developed for military communication. Later, it evolved into a public network with the creation of the World Wide Web in 1989.",
+        "question": "The World Wide Web existed before the internet was developed for military use.",
+        "answer": "false"
+      },
+      {
+        "id": 99,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Photosynthesis is the process by which green plants convert sunlight into energy. This process releases oxygen as a by-product.",
+        "question": "Photosynthesis produces oxygen.",
+        "answer": "true"
+      },
+      {
+        "id": 100,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "The speed of light in a vacuum is approximately 299,792 kilometers per second. Nothing can travel faster than light according to Einstein’s theory of relativity.",
+        "question": "Einstein's theory of relativity states that objects can exceed the speed of light.",
+        "answer": "false"
+      },
+      {
+        "id": 101,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Whales are mammals that breathe air through lungs. They give birth to live young and nurse them with milk.",
+        "question": "Whales lay eggs like fish.",
+        "answer": "false"
+      },
+      {
+        "id": 102,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Honey never spoils under natural conditions. Archaeologists have found pots of honey in ancient Egyptian tombs that were still edible.",
+        "question": "Honey can last for thousands of years without spoiling.",
+        "answer": "true"
+      },
+      {
+        "id": 103,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "Venus is the hottest planet in the solar system due to its thick atmosphere. Its surface temperature exceeds 460°C.",
+        "question": "Mars is the hottest planet in the solar system.",
+        "answer": "false"
+      },
+      {
+        "id": 104,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "The Great Wall of China was built over several centuries. It was meant to protect Chinese states against invasions from nomadic tribes.",
+        "question": "The Great Wall of China was built in a single decade to protect against Mongol invasions.",
+        "answer": "false"
+      },
+      {
+        "id": 105,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "Lightning occurs when there is a buildup of electrical charge in clouds. Thunder is the sound created by the rapid expansion of air due to lightning.",
+        "question": "Lightning and thunder are caused by the same physical phenomenon.",
+        "answer": "true"
+      },
+      {
+        "id": 106,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Cows are herbivores and primarily eat grass and hay. They have a complex stomach system with four compartments to help with digestion.",
+        "question": "Cows are carnivores with a single stomach.",
+        "answer": "false"
+      },
+      {
+        "id": 107,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "The moon’s gravity causes the Earth’s ocean tides. Tides are also influenced by the sun’s gravitational pull.",
+        "question": "Tides on Earth are only affected by the moon.",
+        "answer": "false"
+      },
+      {
+        "id": 108,
+        "difficulty": "easy",
+        "tag": "true or false question",
+        "context": "Shakespeare wrote both tragedies and comedies. 'Romeo and Juliet' is one of his most well-known tragic plays.",
+        "question": "Shakespeare's 'Romeo and Juliet' is a tragedy.",
+        "answer": "true"
+      },
+      {
+        "id": 109,
+        "difficulty": "hard",
+        "tag": "true or false question",
+        "context": "The Suez Canal connects the Mediterranean Sea to the Red Sea. It significantly shortens the maritime journey between Europe and Asia.",
+        "question": "The Suez Canal connects the Atlantic Ocean to the Indian Ocean.",
+        "answer": "false"
+      },
+      {
+        "id": 110,
+        "difficulty": "medium",
+        "tag": "true or false question",
+        "context": "The heart pumps blood throughout the body, delivering oxygen and nutrients. Blood flows in a closed circulatory system in humans.",
+        "question": "In humans, blood is circulated in an open circulatory system.",
+        "answer": "false"
+      }
+  ]
+  

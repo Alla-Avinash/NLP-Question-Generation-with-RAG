@@ -1,0 +1,772 @@
+[
+    {
+        "id": 1,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "Drinking enough water each day helps regulate body temperature, keep joints lubricated, prevent infections, and keep organs functioning properly. Proper hydration also improves sleep quality, cognition, and mood.",
+        "question": "List two ways drinking water benefits the human body."
+    },
+    {
+        "id": 2,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Climate change refers to long-term alterations in temperature, precipitation, wind patterns, and other aspects of Earth's climate system. Human activities, particularly the burning of fossil fuels, have significantly increased the concentration of greenhouse gases in the atmosphere, resulting in global warming and associated effects like rising sea levels and extreme weather events.",
+        "question": "Discuss the causes of climate change and two major effects it has on the environment."
+    },
+    {
+        "id": 3,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "The brain is the control center of the human body. It receives and interprets signals from the environment, coordinates movement, controls emotions, and enables learning and memory.",
+        "question": "What are two functions of the human brain?"
+    },
+    {
+        "id": 4,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Volunteering allows individuals to contribute their time and skills to help others, often through non-profit organizations. It can lead to personal growth, better social skills, and a sense of purpose. Many people also volunteer to give back to their communities or to gain experience in fields of interest.",
+        "question": "Explain why people choose to volunteer and how it benefits both the community and the volunteer."
+    },
+    {
+        "id": 5,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "Regular brushing and flossing help remove food particles and plaque from teeth, preventing cavities and gum disease. Visiting a dentist twice a year for checkups also ensures good oral hygiene.",
+        "question": "How can one maintain good oral hygiene?"
+    },
+    {
+        "id": 6,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Social media platforms allow people to communicate, share content, and stay connected. While they offer many advantages like real-time updates and access to global communities, they also pose risks such as cyberbullying, misinformation, and reduced face-to-face interaction.",
+        "question": "Discuss the benefits and drawbacks of using social media platforms."
+    },
+    {
+        "id": 7,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "The sun is a star at the center of our solar system. It provides the Earth with light and heat, making life possible. Plants use sunlight to perform photosynthesis, producing oxygen and food.",
+        "question": "Why is the sun important for life on Earth?"
+    },
+    {
+        "id": 8,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Entrepreneurship involves creating, organizing, and running a new business with the aim of making a profit. Entrepreneurs often bring innovative ideas to the market and can drive economic growth by creating jobs and offering new products and services.",
+        "question": "Explain the role of entrepreneurs in the economy and the risks they face."
+    },
+    {
+        "id": 9,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "Bicycling is a healthy and eco-friendly mode of transportation. It helps improve cardiovascular health, reduce pollution, and lower transportation costs.",
+        "question": "Mention one health and one environmental benefit of bicycling."
+    },
+    {
+        "id": 10,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Space exploration has expanded our understanding of the universe, led to technological advances, and inspired global cooperation. However, it also involves high costs, potential risks to astronauts, and ethical questions about the use of space resources.",
+        "question": "Analyze both the scientific benefits and the ethical challenges of space exploration."
+    },
+    {
+        "id": 11,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "A balanced diet includes a variety of foods from all food groups: fruits, vegetables, grains, proteins, and dairy. It ensures the body gets essential nutrients for energy, growth, and disease prevention.",
+        "question": "Why is a balanced diet important?"
+    },
+    {
+        "id": 12,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Digital literacy is the ability to find, evaluate, and use information through digital technologies like computers and smartphones. It includes understanding how to stay safe online, use software tools, and communicate effectively in digital spaces.",
+        "question": "Describe the importance of digital literacy in today’s world and how it affects daily life."
+    },
+    {
+        "id": 13,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "Pollination is the process by which pollen is transferred from the male parts of a flower to the female parts, allowing plants to reproduce. Insects like bees and butterflies play a key role in this process.",
+        "question": "What is the role of insects in pollination?"
+    },
+    {
+        "id": 14,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Renewable energy sources such as wind, solar, and hydropower are considered sustainable alternatives to fossil fuels. They reduce greenhouse gas emissions and pollution, but they also require large infrastructure and depend on weather conditions.",
+        "question": "Compare renewable energy sources with fossil fuels in terms of benefits and limitations."
+    },
+    {
+        "id": 15,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "The internet allows people to connect with others, access vast information, and work remotely. It plays a critical role in education, business, and communication.",
+        "question": "Give one example of how the internet helps in education."
+    },
+    {
+        "id": 16,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Art plays a vital role in human culture by expressing emotions, ideas, and history. It can be a powerful tool for social change and can promote empathy by allowing people to see the world through different lenses.",
+        "question": "Discuss how art contributes to culture and social understanding."
+    },
+    {
+        "id": 17,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "Libraries offer free access to books, digital resources, and community programs. They support education, literacy, and lifelong learning for people of all ages.",
+        "question": "What is one educational benefit of libraries?"
+    },
+    {
+        "id": 18,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Teamwork involves working collaboratively toward a common goal. It enhances productivity, builds strong relationships, and allows diverse perspectives to contribute to better decision-making.",
+        "question": "Explain why teamwork is important in both academic and professional settings."
+    },
+    {
+        "id": 19,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "Music can influence emotions, improve mood, and even enhance cognitive performance. Many people use music to relax, concentrate, or feel inspired.",
+        "question": "How does music affect a person’s emotions?"
+    },
+    {
+        "id": 20,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Critical thinking involves analyzing facts to make reasoned decisions. It is essential in problem-solving, understanding arguments, and evaluating information sources.",
+        "question": "Describe the role of critical thinking in making informed decisions."
+    },
+    {
+        "id": 21,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "Sleep is essential for maintaining good physical and mental health. During sleep, the body repairs itself, the brain processes information, and hormone levels are regulated. Lack of sleep can lead to irritability, weakened immunity, and reduced concentration. Most adults require 7 to 9 hours of quality sleep each night to function optimally.",
+        "question": "Why is sleep important for the human body?"
+    },
+    {
+        "id": 22,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "The Industrial Revolution, which began in the late 18th century, marked a major turning point in history. It transformed largely agrarian societies into industrial powerhouses through the development of machinery, factories, and mass production techniques. The revolution led to increased production and economic growth, but it also brought about social challenges like urban overcrowding, labor exploitation, and environmental degradation. Child labor became common, and working conditions in factories were often harsh and unsafe. Despite these drawbacks, the Industrial Revolution laid the foundation for modern economies and innovations.",
+        "question": "Explain how the Industrial Revolution changed society, including both its benefits and negative consequences."
+    },
+    {
+        "id": 23,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process occurs in the chloroplasts of plant cells and requires sunlight, carbon dioxide, and water. Oxygen is released as a byproduct. Photosynthesis not only provides food for the plant but also supplies oxygen to the atmosphere, making it vital for life on Earth.",
+        "question": "What are the three main things needed for photosynthesis to occur?"
+    },
+    {
+        "id": 24,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "The rise of e-commerce has changed how consumers shop and businesses operate. With the convenience of browsing and purchasing items online, consumers no longer need to visit physical stores. Businesses benefit from reaching a global audience, reducing overhead costs, and collecting valuable data on customer preferences. However, e-commerce also faces challenges such as cybersecurity risks, high competition, and logistical issues in delivery. Moreover, the shift away from brick-and-mortar stores has contributed to the decline of some local businesses and retail jobs.",
+        "question": "Describe how e-commerce has transformed the shopping experience and what challenges it presents."
+    },
+    {
+        "id": 25,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "Bird migration is a seasonal movement pattern typically driven by changes in temperature and food availability. Birds migrate to find more favorable environments for breeding or feeding. Some species travel thousands of miles between continents. Migration ensures survival during harsh conditions and allows birds to exploit different ecosystems throughout the year.",
+        "question": "Why do birds migrate seasonally?"
+    },
+    {
+        "id": 26,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Plastic pollution has become one of the most pressing environmental issues. Every year, millions of tons of plastic waste end up in the oceans, harming marine life. Sea turtles often mistake plastic bags for jellyfish, and many seabirds ingest plastic particles. Microplastics, which result from the breakdown of larger items, have been found in drinking water and food supplies. Governments and organizations worldwide are working to reduce plastic use through bans on single-use plastics, recycling initiatives, and awareness campaigns, but the challenge remains significant due to plastic’s durability and widespread use.",
+        "question": "Discuss the environmental impact of plastic pollution and what measures are being taken to address it."
+    },
+    {
+        "id": 27,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "Recycling is the process of converting waste materials into new products. It helps reduce the consumption of raw materials, conserve energy, and minimize landfill waste. Common recyclable materials include paper, glass, metal, and certain types of plastic.",
+        "question": "What are two benefits of recycling?"
+    },
+    {
+        "id": 28,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Democracy is a form of government in which power is held by the people, either directly or through elected representatives. A healthy democracy depends on active citizen participation, free and fair elections, the rule of law, and protection of individual rights. While democratic systems promote freedom and equality, they also face challenges such as voter apathy, misinformation, and political polarization. Ensuring transparency and accountability in government is essential for maintaining public trust and the effectiveness of democratic institutions.",
+        "question": "Explain the key principles of a democracy and the challenges it can face in modern times."
+    },
+    {
+        "id": 29,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "Antibiotics are medicines used to treat bacterial infections. They work by killing bacteria or preventing them from multiplying. However, overuse or misuse of antibiotics can lead to antibiotic resistance, making infections harder to treat.",
+        "question": "What is the main purpose of antibiotics?"
+    },
+    {
+        "id": 30,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Renewable resources are natural resources that can be replenished over time, such as solar energy, wind, and water. Unlike fossil fuels, they do not run out when used sustainably. Utilizing renewable resources helps combat climate change, reduces air pollution, and provides long-term energy security. However, their availability can depend on location and weather conditions, and initial infrastructure costs can be high. Advances in technology continue to improve efficiency and make renewable energy more accessible.",
+        "question": "Compare renewable resources to non-renewable resources and discuss the advantages of using renewables."
+    },
+    {
+        "id": 31,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "Regular physical exercise improves cardiovascular health, strengthens muscles and bones, and enhances mood by releasing endorphins. It also helps in weight management and reduces the risk of chronic diseases like diabetes and heart disease.",
+        "question": "Name two health benefits of regular exercise."
+    },
+    {
+        "id": 32,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Globalization refers to the increasing interconnectedness of countries through trade, communication, technology, and cultural exchange. It has led to the spread of ideas, products, and services across borders, often boosting economic growth and technological advancement. However, globalization has also been criticized for widening income gaps, causing job losses in some sectors, and leading to cultural homogenization. Its effects vary depending on a country’s policies, economic status, and ability to adapt.",
+        "question": "Analyze the positive and negative effects of globalization on societies and economies."
+    },
+    {
+        "id": 33,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "A compass is a navigation instrument that shows direction relative to the Earth’s magnetic poles. It has a magnetic needle that points north, helping travelers and explorers find their way.",
+        "question": "What does a compass needle point to?"
+    },
+    {
+        "id": 34,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Artificial Intelligence (AI) refers to machines and systems capable of performing tasks that typically require human intelligence. This includes tasks like speech recognition, decision-making, and problem-solving. AI is used in a wide range of applications such as self-driving cars, medical diagnosis, virtual assistants, and fraud detection. While AI has the potential to improve efficiency and unlock new innovations, it also raises ethical concerns about job displacement, data privacy, and decision transparency.",
+        "question": "Describe how Artificial Intelligence is being used today and what concerns it raises."
+    },
+    {
+        "id": 35,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "The human skeleton supports the body, protects vital organs, and allows movement through joints and muscles. It is made up of 206 bones in adults.",
+        "question": "How many bones are in the adult human body?"
+    },
+    {
+        "id": 36,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Mental health includes emotional, psychological, and social well-being. It affects how people think, feel, and act. Factors such as stress, trauma, genetics, and lifestyle can influence mental health. Taking care of mental health involves practicing self-care, maintaining social connections, seeking therapy when needed, and reducing stigma around mental illness. Promoting mental well-being is just as important as maintaining physical health.",
+        "question": "Explain the importance of mental health and ways individuals can take care of it."
+    },
+    {
+        "id": 37,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "The moon affects tides on Earth through its gravitational pull. When the moon’s gravity pulls on Earth’s oceans, it creates high and low tides.",
+        "question": "What natural phenomenon on Earth is influenced by the moon’s gravity?"
+    },
+    {
+        "id": 38,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Transportation systems play a key role in the development of a country’s economy by enabling the movement of goods and people. Efficient transportation reduces travel time, lowers costs, and supports trade and industry. However, growing urban populations have led to increased traffic congestion and pollution. Sustainable transport solutions such as public transit, biking infrastructure, and electric vehicles are being explored to balance mobility with environmental impact.",
+        "question": "Discuss the role of transportation in economic growth and the need for sustainable transport solutions."
+    },
+    {
+        "id": 39,
+        "difficulty": "easy",
+        "tag": "short answer question",
+        "context": "Gravity is a force that attracts objects toward one another. On Earth, gravity gives weight to physical objects and causes them to fall when dropped.",
+        "question": "What force causes objects to fall toward the Earth?"
+    },
+    {
+        "id": 40,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Water scarcity is a growing global issue caused by factors like overpopulation, climate change, pollution, and overuse of freshwater resources. In many parts of the world, access to clean and safe drinking water is limited. This affects health, agriculture, and economic development. Solutions include improving water management, investing in water-saving technologies, protecting water sources, and raising awareness about conservation.",
+        "question": "What are the main causes of water scarcity and how can this issue be addressed?"
+    },
+    {
+        "id": 41,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "The Amazon Rainforest, often referred to as the 'lungs of the Earth,' spans across nine countries in South America, with the majority located in Brazil. It plays a crucial role in regulating the global climate by absorbing vast amounts of carbon dioxide. The rainforest is home to an estimated 390 billion individual trees, representing around 16,000 different species. However, deforestation due to logging, agriculture, and mining has led to significant loss of biodiversity and disruption of indigenous communities. Conservation efforts are underway, including reforestation projects and sustainable land management practices, aiming to preserve this vital ecosystem for future generations.",
+        "question": "Considering the Amazon Rainforest's role in carbon absorption and the threats it faces from deforestation, how do conservation efforts contribute to mitigating climate change and preserving biodiversity?"
+    },
+    {
+        "id": 42,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef system, stretching over 2,300 kilometers. It comprises over 2,900 individual reefs and 900 islands. The reef supports a vast array of marine life, including over 1,500 species of fish and 400 types of coral. Climate change poses a significant threat to the reef, with rising sea temperatures leading to coral bleaching events. Additionally, pollution from agricultural runoff and coastal development further endangers the delicate ecosystem. Efforts to protect the reef include implementing marine protected areas, reducing carbon emissions, and promoting sustainable tourism practices.",
+        "question": "Given the Great Barrier Reef's ecological importance and the threats it faces from climate change and pollution, what measures are being taken to protect it, and how effective are these strategies in preserving the reef's biodiversity?"
+    },
+    {
+        "id": 43,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Renewable energy sources, such as solar, wind, and hydroelectric power, are increasingly being adopted worldwide to reduce dependence on fossil fuels. Solar panels convert sunlight into electricity, while wind turbines harness wind energy to generate power. Hydroelectric plants utilize flowing water to produce electricity. These renewable sources emit little to no greenhouse gases, making them environmentally friendly alternatives. However, challenges include the intermittent nature of solar and wind energy, the high initial costs of infrastructure, and the need for technological advancements in energy storage. Governments and private sectors are investing in research and development to overcome these obstacles and promote sustainable energy solutions.",
+        "question": "Considering the environmental benefits and challenges associated with renewable energy sources, how are governments and private sectors addressing the intermittency and cost issues to promote sustainable energy adoption?"
+    },
+    {
+        "id": 44,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Urbanization has led to the growth of megacities, with populations exceeding 10 million people. While urban centers offer economic opportunities and access to services, they also face challenges such as traffic congestion, air pollution, and inadequate housing. To address these issues, urban planners are implementing smart city initiatives that leverage technology to improve infrastructure and services. Examples include intelligent traffic management systems, green building designs, and the integration of renewable energy sources. Additionally, policies promoting public transportation and sustainable development aim to enhance the quality of life for urban residents.",
+        "question": "In the context of rapid urbanization and the emergence of megacities, how do smart city initiatives and sustainable development policies work together to address the challenges of urban living?"
+    },
+    {
+        "id": 45,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Artificial Intelligence (AI) has seen significant advancements in recent years, impacting various sectors including healthcare, finance, and transportation. In healthcare, AI algorithms assist in diagnosing diseases and personalizing treatment plans. Financial institutions use AI for fraud detection and risk assessment. Autonomous vehicles rely on AI for navigation and decision-making. Despite these benefits, concerns arise regarding job displacement, data privacy, and ethical considerations. Ensuring transparency in AI decision-making processes and establishing regulatory frameworks are essential steps toward responsible AI integration.",
+        "question": "Given the widespread applications of Artificial Intelligence across multiple sectors, what measures are being implemented to address ethical concerns and ensure responsible integration of AI technologies?"
+    },
+    {
+        "id": 46,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Climate change has led to increased frequency and intensity of extreme weather events, such as hurricanes, droughts, and wildfires. These events have devastating effects on communities, economies, and ecosystems. For instance, prolonged droughts can lead to water scarcity and agricultural losses, while wildfires destroy habitats and release significant amounts of carbon dioxide. Adaptation strategies include building resilient infrastructure, developing early warning systems, and implementing sustainable land management practices. International cooperation and policy frameworks, like the Paris Agreement, aim to mitigate climate change impacts through emission reductions and support for vulnerable regions.",
+        "question": "Considering the diverse impacts of extreme weather events exacerbated by climate change, how do adaptation strategies and international policies work together to mitigate these effects and support affected communities?"
+    },
+    {
+        "id": 47,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "The global population is aging, with a significant increase in the proportion of individuals aged 65 and older. This demographic shift presents challenges for healthcare systems, pension schemes, and labor markets. Older populations often require more medical care, leading to increased healthcare expenditures. Pension systems may face sustainability issues due to a shrinking workforce supporting a growing number of retirees. To address these challenges, policies promoting active aging, such as encouraging older individuals to remain in the workforce longer, and investing in healthcare innovations are being considered.",
+        "question": "In light of the aging global population, what policy measures are being adopted to ensure the sustainability of healthcare and pension systems while promoting active aging?"
+    },
+    {
+        "id": 48,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Education systems worldwide are undergoing transformations to incorporate digital technologies and adapt to the demands of the 21st-century workforce. Online learning platforms, interactive digital tools, and virtual classrooms have become integral components of modern education. These technologies offer flexibility and accessibility, allowing learners to acquire skills at their own pace. However, challenges such as the digital divide, varying levels of digital literacy, and ensuring the quality of online education persist. Efforts to bridge these gaps include investing in infrastructure, teacher training, and developing inclusive curricula.",
+        "question": "How are education systems addressing the challenges posed by digital transformation to ensure equitable access and maintain the quality of education in the digital age?"
+    },
+    {
+        "id": 49,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Global supply chains have become increasingly complex, with goods and services crossing multiple borders before reaching consumers. While this interconnectedness allows for cost efficiencies and access to diverse markets, it also introduces vulnerabilities. Disruptions such as natural disasters, pandemics, or geopolitical tensions can lead to significant delays and shortages. To enhance resilience, companies are adopting strategies like diversifying suppliers, increasing inventory buffers, and investing in supply chain visibility technologies. Governments are also reassessing trade policies to balance globalization benefits with national security concerns.",
+        "question": "In the face of vulnerabilities exposed in global supply chains, what strategies are businesses and governments implementing to enhance resilience and ensure continuity of supply?"
+    },
+    {
+        "id": 50,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Biodiversity loss is accelerating due to factors such as habitat destruction, climate change, pollution, and invasive species. The decline in species diversity threatens ecosystem services that are vital for human survival, including pollination, water purification, and disease regulation. Conservation efforts involve establishing protected areas, restoring degraded habitats, and implementing sustainable resource management practices. International agreements like the Convention on Biological Diversity aim to coordinate global actions to preserve biodiversity. Public awareness and community involvement are also crucial components of successful conservation strategies.",
+        "question": "Considering the multifaceted causes of biodiversity loss, how do conservation efforts and international agreements work in tandem to preserve ecosystem services and ensure environmental sustainability?"
+    },
+    {
+        "id": 51,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Water scarcity affects over two billion people worldwide, driven by factors such as population growth, climate change, and inefficient water management. Agricultural activities account for approximately 70% of global freshwater use, often leading to over-extraction of water resources. Climate change exacerbates water scarcity through altered precipitation patterns and increased frequency of droughts. Solutions include implementing water-efficient irrigation techniques, recycling wastewater, and investing in infrastructure to reduce leakage. Integrated water resource management approaches aim to balance the needs of various sectors while ensuring sustainable water use.",
+        "question": "Given the contributing factors to global water scarcity, what integrated approaches are being employed to manage water resources sustainably and equitably?"
+    },
+    {
+        "id": 52,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Cybersecurity threats have escalated with the increasing reliance on digital technologies. Cyberattacks, such as data breaches, ransomware, and phishing, pose significant risks to individuals, businesses, and governments. The financial and reputational damages from such attacks can be substantial. To combat these threats, organizations are investing in robust cybersecurity measures, including firewalls, encryption, and employee training programs. Governments are enacting legislation to enhance cybersecurity frameworks and promote information sharing between public and private sectors. International cooperation is also essential to address cross-border cyber threats.",
+        "question": "In response to the growing cybersecurity threats, how are organizations and governments collaborating to strengthen defenses and ensure digital security across sectors?"
+    },
+    {
+        "id": 53,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "The rapid growth of social media platforms has changed the way people communicate and share information. These platforms enable users to interact with a global audience, share personal updates, and participate in online communities. However, concerns around privacy, misinformation, and addiction have surfaced. Social media companies are now facing pressure to address these issues by improving content moderation, enhancing user privacy protection, and providing more transparent algorithms. Governments are also stepping in with regulations to curb harmful content and ensure that platforms prioritize user well-being.",
+        "question": "How are social media companies and governments addressing concerns around privacy, misinformation, and user addiction?"
+      },
+      {
+        "id": 54,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "The shift toward remote work has become more prevalent due to advancements in communication technology and the COVID-19 pandemic. Many companies have adopted hybrid or fully remote work models, allowing employees to work from home or flexible locations. While remote work offers benefits such as increased work-life balance and cost savings, it also presents challenges like maintaining team collaboration, managing productivity, and ensuring mental well-being. Employers are investing in digital collaboration tools, providing mental health resources, and revising management practices to adapt to this new working environment.",
+        "question": "What strategies are employers using to address the challenges of remote work and ensure employee productivity and well-being?"
+      },
+      {
+        "id": 55,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Electric vehicles (EVs) are gaining popularity as an alternative to traditional gasoline-powered cars due to their environmental benefits and advancements in battery technology. EVs produce zero emissions, which helps reduce air pollution and combat climate change. However, the widespread adoption of EVs faces challenges such as limited charging infrastructure, high upfront costs, and the environmental impact of battery production. Governments are providing incentives for EV purchases, expanding charging networks, and funding research into more sustainable battery solutions to support the transition to electric mobility.",
+        "question": "How are governments and businesses addressing the barriers to widespread adoption of electric vehicles?"
+      },
+      {
+        "id": 56,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "The healthcare industry has been transformed by the integration of digital technologies, such as telemedicine, electronic health records, and wearable health devices. These innovations allow healthcare providers to offer remote consultations, track patient health in real-time, and manage patient data more efficiently. While these technologies improve access to healthcare and streamline processes, they also raise concerns about data privacy, cybersecurity, and the digital divide. To address these concerns, regulatory bodies are implementing stricter data protection laws and encouraging the development of secure digital health platforms.",
+        "question": "How are healthcare providers and regulators addressing the challenges of privacy, security, and equity in digital health technologies?"
+      },
+      {
+        "id": 57,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Artificial intelligence (AI) has shown promise in various fields, including healthcare, finance, and transportation. AI algorithms can analyze large datasets to detect patterns and make predictions, which can enhance decision-making and automate processes. However, the increasing reliance on AI raises concerns about job displacement, algorithmic bias, and accountability. Companies are working on developing ethical AI frameworks, implementing fairness guidelines, and increasing transparency in AI decision-making processes. Governments are also exploring regulations to ensure that AI is used responsibly and for the benefit of society.",
+        "question": "What steps are being taken to address the ethical concerns surrounding AI and ensure its responsible use?"
+      },
+      {
+        "id": 58,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Sustainable agriculture practices are becoming more important as the global population grows and climate change affects food production. Techniques such as crop rotation, reduced pesticide use, and precision farming aim to enhance food security while minimizing environmental impact. However, challenges such as land degradation, water scarcity, and access to technology hinder the widespread adoption of sustainable agriculture. Governments and organizations are investing in research to improve agricultural practices, promoting policy changes, and supporting farmers with subsidies and education to ensure the long-term viability of agriculture.",
+        "question": "How are governments and organizations addressing the challenges to adopting sustainable agriculture practices?"
+      },
+      {
+        "id": 59,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "The global energy landscape is undergoing a transformation as countries shift towards renewable energy sources to reduce greenhouse gas emissions and combat climate change. Solar, wind, and hydroelectric power are becoming more prevalent, but challenges such as energy storage, grid reliability, and the intermittency of renewable energy remain. To address these issues, research is focused on developing more efficient battery technologies and smart grids. Governments are also investing in renewable energy infrastructure, offering incentives, and setting renewable energy targets to accelerate the transition to a sustainable energy future.",
+        "question": "How are technological advancements and government initiatives working together to overcome challenges in renewable energy adoption?"
+      },
+      {
+        "id": 60,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "The global water crisis is exacerbated by factors such as population growth, climate change, and pollution. Over two billion people lack access to clean drinking water, and many regions face severe water shortages. Climate change has worsened the situation by altering precipitation patterns and increasing the frequency of droughts. Solutions to the water crisis include improving water management systems, investing in desalination technologies, and promoting water conservation practices. International organizations are working with governments to implement policies that ensure equitable access to clean water for all.",
+        "question": "What strategies are being employed to address the global water crisis and ensure equitable access to clean water?"
+      },
+      {
+        "id": 61,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Urbanization has led to the development of megacities, which present both opportunities and challenges. On one hand, megacities are economic powerhouses that offer access to jobs, education, and healthcare. On the other hand, they often face issues such as overcrowding, pollution, and inadequate infrastructure. To address these problems, urban planners are incorporating green spaces, improving public transportation, and utilizing smart technologies to manage resources more efficiently. Sustainable urban development policies aim to balance economic growth with environmental protection and quality of life for residents.",
+        "question": "How are urban planners working to balance the benefits of megacities with the challenges they face, particularly in terms of sustainability?"
+      },
+      {
+        "id": 62,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Biodiversity loss is a growing concern as species face extinction due to habitat destruction, climate change, and over-exploitation. The loss of biodiversity has far-reaching consequences, affecting ecosystem services such as pollination, clean water, and climate regulation. Conservation efforts, such as the establishment of protected areas, wildlife corridors, and sustainable resource management, are critical to reversing this trend. International agreements, like the Convention on Biological Diversity, aim to coordinate global conservation efforts and ensure the preservation of ecosystems for future generations.",
+        "question": "How do conservation efforts and international agreements work together to combat biodiversity loss and preserve ecosystem services?"
+      },
+      {
+        "id": 63,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "The rise of autonomous vehicles has the potential to transform transportation by reducing traffic accidents, increasing efficiency, and reducing carbon emissions. However, challenges such as regulatory uncertainty, technological limitations, and public trust need to be addressed before widespread adoption can occur. Autonomous vehicles require complex sensors, algorithms, and machine learning models to navigate safely. Governments are developing regulations to ensure safety standards are met, while private companies are working on improving the technology to make autonomous vehicles a viable option for consumers.",
+        "question": "What challenges must be overcome to make autonomous vehicles a mainstream mode of transportation, and how are governments and businesses addressing them?"
+      },
+      {
+        "id": 64,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "The digital divide is the gap between those who have access to modern technology and those who do not. This divide can exacerbate inequalities in education, healthcare, and economic opportunities. Rural areas, lower-income populations, and developing countries often face significant barriers to accessing the internet and digital devices. Efforts to close the digital divide include expanding internet infrastructure, providing affordable devices, and promoting digital literacy. Governments and international organizations are working together to ensure that everyone has equal access to the benefits of the digital age.",
+        "question": "How are efforts to close the digital divide addressing issues of access and digital literacy in underserved communities?"
+      },
+      {
+        "id": 65,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Climate change is contributing to more frequent and intense natural disasters, including hurricanes, wildfires, and floods. These events cause widespread damage to infrastructure, homes, and livelihoods, particularly in vulnerable communities. To mitigate the impacts, governments are investing in disaster preparedness and resilience, including early warning systems, evacuation plans, and building resilient infrastructure. Climate adaptation strategies also include relocating vulnerable populations and strengthening local economies to withstand future disasters.",
+        "question": "How are governments and communities preparing for the increasing frequency of natural disasters caused by climate change?"
+      },
+      {
+        "id": 66,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "The theory of evolution explains how species evolve over time through natural selection. Organisms with traits that increase their chances of survival are more likely to reproduce, passing those beneficial traits on to their offspring. Over many generations, this process leads to the development of new species. Fossil records and genetic evidence support the theory, showing a gradual change in species over millions of years. However, some scientists argue that evolution can also be influenced by factors such as genetic drift and gene flow, which may lead to unexpected evolutionary paths.",
+        "question": "How do the concepts of natural selection, genetic drift, and gene flow contribute to the evolution of species over time?"
+      },
+      {
+        "id": 67,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "The concept of climate change is based on the scientific understanding that human activities, particularly the burning of fossil fuels, are increasing the concentration of greenhouse gases in the atmosphere. These gases trap heat, leading to a rise in global temperatures, which affects weather patterns, sea levels, and ecosystems. While the scientific consensus supports the reality of human-caused climate change, there are still debates over the extent of the impacts and the most effective mitigation strategies. Some scientists emphasize the importance of renewable energy sources, while others focus on carbon capture technologies.",
+        "question": "What are the main scientific explanations behind climate change, and how do different mitigation strategies, such as renewable energy and carbon capture, address its effects?"
+      },
+      {
+        "id": 68,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Quantum mechanics is the branch of physics that deals with the behavior of particles at the atomic and subatomic levels. Unlike classical physics, quantum mechanics reveals that particles can exist in multiple states at once, a phenomenon known as superposition. Quantum entanglement also suggests that particles can be instantaneously connected, regardless of the distance between them. These principles challenge our traditional understanding of reality and have led to the development of quantum technologies, such as quantum computers, which have the potential to revolutionize fields like cryptography and material science.",
+        "question": "How do the principles of quantum mechanics, such as superposition and entanglement, challenge traditional physics and contribute to advancements in quantum technology?"
+      },
+      {
+        "id": 69,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy. In this process, plants absorb carbon dioxide and water and, using the energy from sunlight, produce glucose and oxygen. The process occurs in the chloroplasts of plant cells, primarily in the leaves. Photosynthesis is crucial for the Earth's ecosystems because it forms the foundation of the food chain. Additionally, it helps regulate the planet's carbon cycle by removing carbon dioxide from the atmosphere. However, human activities, such as deforestation, threaten this vital process.",
+        "question": "What role does photosynthesis play in the Earth's ecosystems, and how do human activities impact this crucial process?"
+      },
+      {
+        "id": 70,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Genetic engineering involves manipulating an organism's DNA to achieve desired traits. This can include adding new genes, removing harmful ones, or altering existing ones. In agriculture, genetic engineering has been used to create crops resistant to pests, diseases, and environmental stress. In medicine, gene therapy aims to treat or prevent diseases by correcting faulty genes in a patient's DNA. However, genetic engineering raises ethical concerns regarding its potential impact on biodiversity, human health, and the environment. Regulations are being implemented to ensure that genetic modifications are safe and responsible.",
+        "question": "How does genetic engineering impact agriculture and medicine, and what are the ethical and safety concerns associated with these technologies?"
+      },
+      {
+        "id": 71,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "The human brain is an incredibly complex organ that controls all bodily functions, including thought, memory, and emotions. It is made up of billions of neurons, which communicate through electrical and chemical signals. Neuroplasticity is the brain's ability to reorganize itself by forming new neural connections throughout life. This capability allows the brain to adapt to new experiences, learn new skills, and recover from injuries. Advances in neuroscience are providing deeper insights into brain function, leading to potential breakthroughs in treating neurological diseases such as Alzheimer's and Parkinson's.",
+        "question": "What is neuroplasticity, and how do advancements in neuroscience enhance our understanding of brain function and the treatment of neurological diseases?"
+      },
+      {
+        "id": 72,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "The field of immunology focuses on the study of the immune system, which defends the body against harmful invaders such as bacteria, viruses, and cancer cells. The immune system consists of a variety of cells and proteins, including white blood cells, antibodies, and cytokines. Vaccines work by stimulating the immune system to recognize and fight specific pathogens without causing disease. The development of vaccines has been instrumental in eradicating or controlling numerous infectious diseases, such as smallpox and polio. However, new challenges, such as emerging infectious diseases and vaccine hesitancy, complicate global immunization efforts.",
+        "question": "How do vaccines stimulate the immune system, and what challenges are faced in global immunization efforts, particularly with emerging diseases and vaccine hesitancy?"
+      },
+      {
+        "id": 73,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "The process of plate tectonics explains the movement of Earth's lithosphere, which is divided into several large and small plates. These plates float on the semi-fluid asthenosphere below them. The movement of these plates leads to the formation of mountains, earthquakes, and volcanic activity. At plate boundaries, the interaction between the plates can be divergent, convergent, or transform. Plate tectonics is responsible for the shaping of Earth's surface over millions of years and is central to understanding geological phenomena.",
+        "question": "How do the movements of tectonic plates shape the Earth's surface, and what geological phenomena are associated with plate boundaries?"
+      },
+      {
+        "id": 74,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "The human respiratory system consists of the lungs, airways, and muscles that help facilitate breathing. Oxygen is inhaled into the lungs and diffuses into the bloodstream, where it is transported to tissues and organs. Carbon dioxide, a waste product of cellular respiration, is expelled from the body through exhalation. The diaphragm plays a key role in controlling the flow of air into and out of the lungs. Respiratory health is influenced by factors such as pollution, smoking, and respiratory infections.",
+        "question": "What is the role of the diaphragm in the respiratory system, and how does it contribute to breathing?"
+      },
+      {
+        "id": 75,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Artificial intelligence (AI) has rapidly advanced in recent years, leading to breakthroughs in various fields such as healthcare, finance, and robotics. AI systems use algorithms to analyze data, identify patterns, and make decisions. Machine learning, a subset of AI, allows systems to improve their performance over time by learning from new data. However, AI also raises ethical concerns, including privacy issues, job displacement, and the potential for bias in decision-making algorithms. The regulation of AI technologies is an ongoing debate in the tech community.",
+        "question": "What are the benefits and ethical challenges associated with the rise of artificial intelligence, particularly in terms of privacy, job displacement, and algorithmic bias?"
+      },
+      {
+        "id": 76,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "In physics, energy is the ability to do work. It can exist in various forms, including kinetic energy, potential energy, thermal energy, and chemical energy. The law of conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another. This principle is fundamental to understanding many physical processes, from the motion of objects to the functioning of engines and machines. Understanding energy transformations is key in fields like engineering and environmental science.",
+        "question": "What does the law of conservation of energy state, and why is it important for understanding physical processes?"
+      },
+      {
+        "id": 77,
+        "difficulty": "hard",
+        "tag": "long answer question",
+        "context": "In chemistry, acids and bases are substances that can donate or accept protons, respectively. The pH scale measures the acidity or basicity of a solution, with values below 7 indicating acidity and values above 7 indicating basicity. Acids react with bases in a neutralization reaction, producing water and salt. The behavior of acids and bases is influenced by their molecular structure, which determines their strength and reactivity. These reactions are important in numerous chemical processes, including digestion and industrial applications.",
+        "question": "How do acids and bases interact in a neutralization reaction, and what factors influence their strength and reactivity?"
+      },
+      {
+        "id": 78,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "The human circulatory system is responsible for transporting blood, nutrients, gases, and waste products throughout the body. The heart pumps oxygenated blood to the body through arteries and receives deoxygenated blood through veins. The system also includes capillaries, which allow for the exchange of gases and nutrients at the cellular level. A healthy circulatory system is vital for maintaining bodily functions, and diseases such as heart attacks and strokes can occur when the system is compromised.",
+        "question": "What is the role of the circulatory system in maintaining bodily functions, and how do arteries, veins, and capillaries contribute to this process?"
+      },
+      {
+        "id": 79,
+        "difficulty": "hard",
+        "tag": "long answer question",
+        "context": "The concept of entropy in thermodynamics refers to the measure of disorder or randomness in a system. According to the second law of thermodynamics, the total entropy of an isolated system can never decrease over time. This law explains why natural processes, such as the diffusion of gas particles or the melting of ice, tend to move toward a state of higher disorder. Entropy plays a crucial role in understanding the direction of natural processes and is fundamental to the study of energy and heat transfer.",
+        "question": "What is the role of entropy in thermodynamics, and how does the second law of thermodynamics explain the tendency of systems to move toward greater disorder?"
+      },
+      {
+        "id": 80,
+        "difficulty": "hard",
+        "tag": "long answer question",
+        "context": "In ecology, the term biodiversity refers to the variety of life on Earth, including the diversity of species, ecosystems, and genetic variations. Biodiversity is crucial for ecosystem stability, resilience, and the provision of ecosystem services such as food, water, and air purification. However, biodiversity is under threat from human activities such as habitat destruction, pollution, and climate change. Conservation efforts aim to protect biodiversity by preserving natural habitats, promoting sustainable practices, and restoring damaged ecosystems.",
+        "question": "How does biodiversity contribute to ecosystem stability and resilience, and what are the main threats to biodiversity caused by human activities?"
+      },
+      {
+        "id": 81,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "The field of nanotechnology involves manipulating matter on an atomic or molecular scale to create materials and devices with unique properties. Nanomaterials are used in a wide range of industries, from electronics to medicine, due to their enhanced strength, conductivity, and reactivity. However, there are concerns about the potential health and environmental risks of nanomaterials, as their small size allows them to penetrate cells and tissues in ways that larger materials cannot. Research is ongoing to better understand these risks and develop safe practices for nanotechnology.",
+        "question": "What are the potential health and environmental risks of nanomaterials, and why are they a concern in the field of nanotechnology?"
+      },
+      {
+        "id": 82,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "In the field of genetics, DNA sequencing refers to the process of determining the precise order of nucleotides in a DNA molecule. This technology has revolutionized biology by allowing scientists to study genes, mutations, and genetic variation in great detail. The Human Genome Project, which mapped the entire human genome, provided crucial insights into human biology and disease. Advances in DNA sequencing technology have also led to the development of personalized medicine, where treatments are tailored to an individual's genetic makeup.",
+        "question": "How has DNA sequencing technology impacted the field of genetics, and what are its applications in personalized medicine?"
+      },
+      {
+        "id": 83,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "Reinforcement learning (RL) is a type of machine learning where an agent learns how to behave in an environment by performing actions and receiving feedback in the form of rewards or penalties. The goal of the agent is to maximize the cumulative reward over time. Key components in RL include the agent, environment, actions, states, and rewards. RL is used in various applications, such as robotics, game playing, and autonomous driving, where the agent interacts with the environment and improves its policy based on the feedback it receives. Techniques like Q-learning and Deep Q-Networks (DQN) are often used to solve RL problems.",
+        "question": "How does reinforcement learning work, and what are the key components that make up an RL system?"
+      },
+      {
+        "id": 84,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "In supervised learning, a machine learning model is trained using labeled data, where the input data is paired with the correct output label. The model learns to predict the output for new, unseen data based on the patterns it finds in the training set. Common algorithms used in supervised learning include decision trees, support vector machines, and neural networks. Supervised learning is widely used for classification and regression tasks, such as image classification, spam detection, and stock price prediction.",
+        "question": "What is supervised learning, and how does it work with labeled data?"
+      },
+      {
+        "id": 85,
+        "difficulty": "hard",
+        "tag": "long answer question",
+        "context": "Deep learning, a subset of machine learning, involves neural networks with many layers (also called deep neural networks). These networks are capable of learning from large amounts of data and are particularly effective in tasks like image recognition, natural language processing, and speech recognition. Deep learning models use layers of neurons to automatically extract features from raw data, and the learning process often requires significant computational resources. Popular deep learning architectures include convolutional neural networks (CNNs) and recurrent neural networks (RNNs), each suited to specific types of data.",
+        "question": "What are the key differences between deep learning and traditional machine learning, and how do architectures like CNNs and RNNs contribute to solving specific tasks?"
+      },
+      {
+        "id": 86,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "In reinforcement learning, the agent must balance exploration (trying new actions to discover their outcomes) with exploitation (using known actions that yield high rewards). This balance is known as the exploration-exploitation tradeoff. If the agent focuses too much on exploitation, it may miss out on potentially better actions, while too much exploration may lead to suboptimal performance. Strategies like epsilon-greedy, where the agent occasionally explores random actions, and Upper Confidence Bound (UCB) are used to manage this tradeoff.",
+        "question": "What is the exploration-exploitation tradeoff in reinforcement learning, and what strategies are used to balance them?"
+      },
+      {
+        "id": 87,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "Support vector machines (SVM) are supervised learning algorithms used for classification and regression tasks. The goal of SVM is to find the optimal hyperplane that separates different classes in the feature space with the largest margin. SVMs work well for high-dimensional data and are robust to overfitting, especially in cases where the number of dimensions exceeds the number of samples. They can also be adapted to non-linear problems using kernel functions.",
+        "question": "How does a support vector machine (SVM) work to classify data, and what role does the kernel function play?"
+      },
+      {
+        "id": 88,
+        "difficulty": "hard",
+        "tag": "long answer question",
+        "context": "Generative adversarial networks (GANs) are a class of deep learning models that consist of two neural networks: a generator and a discriminator. The generator creates data samples, while the discriminator evaluates them against real data. The two networks are trained together in a game-like scenario, where the generator aims to create increasingly realistic data, and the discriminator strives to correctly distinguish real from fake data. GANs have been used for tasks such as image generation, video synthesis, and data augmentation.",
+        "question": "How do generative adversarial networks (GANs) function, and what are their applications in deep learning?"
+      },
+      {
+        "id": 89,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "Unsupervised learning is a type of machine learning where the model is given input data without labeled outputs. The goal is to find hidden patterns or intrinsic structures in the data. Clustering and dimensionality reduction are common unsupervised learning tasks. Algorithms like k-means clustering and principal component analysis (PCA) are frequently used to identify groups of similar data points or reduce the number of features while preserving important information.",
+        "question": "What is unsupervised learning, and how do techniques like clustering and PCA help find patterns in data?"
+      },
+      {
+        "id": 90,
+        "difficulty": "hard",
+        "tag": "long answer question",
+        "context": "Transfer learning is a technique in machine learning where a model trained on one task is reused for a different but related task. By leveraging knowledge learned from the initial task, transfer learning can improve performance and reduce the amount of labeled data required for the new task. This approach is particularly useful in deep learning, where pre-trained models on large datasets, such as ImageNet, can be fine-tuned for specific applications like object detection or facial recognition.",
+        "question": "What is transfer learning, and how does it help in improving the performance of machine learning models with limited data?"
+      },
+      {
+        "id": 91,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "In deep learning, backpropagation is a method used to optimize the weights of a neural network by minimizing the error between predicted and actual outputs. During training, the error is propagated backward through the network, and the weights are adjusted using gradient descent. Backpropagation is a key element in the training process of neural networks and allows them to learn from data in an efficient manner.",
+        "question": "What is backpropagation in deep learning, and how does it help optimize the weights of a neural network?"
+      },
+      {
+        "id": 92,
+        "difficulty": "hard",
+        "tag": "long answer question",
+        "context": "In reinforcement learning, the policy of an agent refers to the strategy used to determine the next action to take based on the current state of the environment. Policies can be deterministic or stochastic, and they are typically learned using algorithms like Q-learning or policy gradient methods. In deep reinforcement learning, deep neural networks are used to approximate the value function or policy, allowing the agent to solve more complex problems with high-dimensional state spaces. Deep Q-networks (DQN) are a popular architecture that combines Q-learning with deep learning.",
+        "question": "What is the role of a policy in reinforcement learning, and how do algorithms like Q-learning and deep Q-networks (DQN) improve policy learning?"
+      },
+      {
+        "id": 93,
+        "difficulty": "medium",
+        "tag": "long answer question",
+        "context": "In computer science, algorithms are a fundamental part of problem-solving. An algorithm is a step-by-step procedure for solving a problem or performing a task. Algorithms are evaluated based on their time complexity and space complexity. Time complexity refers to how the running time of an algorithm increases with the size of the input, while space complexity refers to the amount of memory required. Efficient algorithms are critical for processing large datasets or performing real-time operations. Common algorithmic techniques include divide and conquer, greedy algorithms, dynamic programming, and backtracking.",
+        "question": "What are the key factors to evaluate an algorithm, and how do techniques like divide and conquer, greedy algorithms, and dynamic programming differ in their approach to problem-solving?"
+      },
+      {
+        "id": 94,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "Data structures are a crucial aspect of computer science as they provide efficient ways to store and organize data. Some common data structures include arrays, linked lists, stacks, queues, hash tables, and binary trees. Each data structure has its strengths and weaknesses, and selecting the right one depends on the problem being solved. For example, hash tables are efficient for fast lookups, while binary trees are great for maintaining ordered data. Understanding the characteristics of different data structures is essential for optimizing algorithms and applications.",
+        "question": "How do data structures like arrays, linked lists, and hash tables differ in terms of their efficiency and use cases?"
+      },
+      {
+        "id": 95,
+        "difficulty": "hard",
+        "tag": "long answer question",
+        "context": "Operating systems are responsible for managing computer hardware and software resources. They act as an intermediary between users and the computer hardware, providing services like process management, memory management, and file management. Key components of an operating system include the kernel, which handles core tasks, and the user interface, which allows users to interact with the system. Modern operating systems support multitasking, allowing multiple programs to run simultaneously. Operating systems are also responsible for ensuring security and preventing unauthorized access to system resources.",
+        "question": "What are the key components of an operating system, and how does the kernel manage processes and memory to ensure efficient multitasking?"
+      },
+      {
+        "id": 96,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "Computer networks enable the exchange of data and resources between computers. A network consists of nodes (devices like computers and printers) and links (connections between devices). The most common types of networks are local area networks (LANs), wide area networks (WANs), and the internet. Networking protocols, such as TCP/IP, are used to ensure data is transmitted reliably between devices. Security in computer networks is critical, with techniques like encryption and firewalls used to protect sensitive data from unauthorized access.",
+        "question": "What are the different types of computer networks, and how does TCP/IP ensure reliable data transmission between devices?"
+      },
+      {
+        "id": 97,
+        "difficulty": "hard",
+        "tag": "long answer question",
+        "context": "In artificial intelligence, machine learning is a subset that focuses on developing algorithms that allow computers to learn from data. There are three main types of machine learning: supervised learning, unsupervised learning, and reinforcement learning. Supervised learning involves training a model on labeled data to predict outputs. Unsupervised learning finds hidden patterns in unlabeled data, while reinforcement learning involves learning through rewards and penalties. Deep learning, a subfield of machine learning, uses neural networks to automatically extract features from data, making it highly effective for tasks like image and speech recognition.",
+        "question": "How do the three types of machine learning (supervised, unsupervised, and reinforcement) differ in terms of their learning approach, and how does deep learning enhance the capabilities of machine learning?"
+      },
+      {
+        "id": 98,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "Databases are systems used to store, manage, and retrieve data efficiently. Relational databases, such as MySQL and PostgreSQL, use tables with rows and columns to store structured data. They support SQL (Structured Query Language) for querying and manipulating the data. Non-relational databases, like MongoDB, store data in formats such as JSON and are better suited for unstructured or semi-structured data. The choice between relational and non-relational databases depends on the nature of the data and the application’s needs.",
+        "question": "How do relational databases differ from non-relational databases in terms of data storage and querying?"
+      },
+      {
+        "id": 99,
+        "difficulty": "hard",
+        "tag": "long answer question",
+        "context": "Cloud computing is a model for delivering computing services, including storage, processing power, and networking, over the internet. It provides scalable and on-demand access to resources, making it easier for businesses to manage their infrastructure. The main types of cloud computing models are Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). Cloud providers, such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud, offer these services to organizations around the world. The flexibility of cloud computing has transformed industries, allowing businesses to focus on their core competencies while outsourcing IT infrastructure management.",
+        "question": "What are the main types of cloud computing models (IaaS, PaaS, and SaaS), and how have they transformed the way businesses manage their IT infrastructure?"
+      },
+      {
+        "id": 100,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "Algorithms play a crucial role in computer science by providing efficient solutions to problems. Searching algorithms, like binary search, are used to find elements in sorted data structures. Sorting algorithms, such as quicksort and mergesort, arrange data in a specific order. Dynamic programming is an approach used to solve complex problems by breaking them down into simpler subproblems, often used in optimization tasks. Understanding different algorithmic techniques helps programmers choose the best approach based on the problem at hand.",
+        "question": "What are the differences between searching algorithms like binary search and sorting algorithms like quicksort in terms of their functionality?"
+      },
+      {
+        "id": 101,
+        "difficulty": "hard",
+        "tag": "long answer question",
+        "context": "Cybersecurity is a critical aspect of computer science that focuses on protecting systems and networks from cyberattacks. Threats such as malware, phishing, and DDoS attacks can cause significant harm to individuals, businesses, and governments. Cybersecurity measures include encryption, firewalls, intrusion detection systems, and secure authentication mechanisms. The field is constantly evolving as new threats emerge, and professionals must stay updated on the latest trends and technologies to safeguard data. Cybersecurity also involves policies, regulations, and user education to mitigate risks and ensure safety in the digital world.",
+        "question": "What are the main cybersecurity threats, and how do encryption, firewalls, and intrusion detection systems help protect against these threats?"
+      },
+      {
+        "id": 102,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "Artificial intelligence (AI) is the simulation of human intelligence processes by machines, particularly computer systems. It encompasses tasks like learning, reasoning, and problem-solving. Machine learning is a subset of AI that focuses on creating algorithms that allow computers to learn from data. Deep learning, a subset of machine learning, uses neural networks with many layers to model complex patterns in large datasets. AI is applied in numerous fields, such as healthcare, finance, and autonomous vehicles.",
+        "question": "How do machine learning and deep learning differ in their approach to solving problems within the field of AI?"
+      },
+      {
+        "id": 103,
+        "difficulty": "hard",
+        "tag": "long answer question",
+        "context": "The concept of distributed computing involves dividing a computational task into smaller tasks and distributing them across multiple machines, which work together to complete the task. This approach is useful for solving large-scale problems that cannot be handled by a single machine. Distributed systems rely on network protocols, synchronization mechanisms, and fault tolerance to ensure that the system functions correctly even when parts of it fail. Examples of distributed systems include cloud computing platforms and big data processing frameworks like Hadoop and Spark.",
+        "question": "What are the key components of a distributed computing system, and how do network protocols and fault tolerance mechanisms ensure its reliability and efficiency?"
+      },
+      {
+        "id": 104,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "In the field of computer graphics, rendering is the process of generating an image from a 3D model by means of computer programs. Rendering involves applying lighting, shading, and texture to the model to create a realistic image. There are two main types of rendering: real-time rendering, which is used in video games and interactive simulations, and offline rendering, used for high-quality images in movies and animations. The quality and speed of rendering depend on factors like hardware capabilities and the complexity of the scene.",
+        "question": "What are the differences between real-time rendering and offline rendering in computer graphics?"
+      },
+      {
+        "id": 105,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "The field of database management focuses on the creation, retrieval, updating, and deletion of data in a structured way. Relational databases use SQL to manage data in tables with rows and columns. NoSQL databases, on the other hand, store data in more flexible formats such as JSON, and are used for handling unstructured data. The choice of database depends on factors such as data structure, scalability, and performance requirements. Examples of relational databases include MySQL and PostgreSQL, while MongoDB is a popular NoSQL database.",
+        "question": "How do relational databases differ from NoSQL databases in terms of data storage and structure?"
+      },
+      {
+        "id": 106,
+        "difficulty": "hard",
+        "tag": "long answer question",
+        "context": "Software engineering is the process of designing, developing, testing, and maintaining software applications. The software development life cycle (SDLC) consists of stages like requirements gathering, design, implementation, testing, deployment, and maintenance. Different methodologies, such as Agile and Waterfall, are used to guide the development process. Agile focuses on iterative development and customer feedback, while Waterfall is a more linear and structured approach. Both methodologies have their pros and cons depending on project requirements and team structure.",
+        "question": "How do Agile and Waterfall software development methodologies differ in terms of their approach to development and project management?"
+      },
+      {
+        "id": 107,
+        "difficulty": "hard",
+        "tag": "long answer question",
+        "context": "Blockchain technology is a decentralized ledger that records transactions across multiple computers. It ensures that records cannot be altered retroactively, providing security and transparency. Blockchain is the foundation of cryptocurrencies like Bitcoin and Ethereum. It operates through a network of nodes that validate and record transactions. Smart contracts, which are self-executing contracts with the terms of the agreement directly written into code, can also be implemented on blockchain platforms, automating processes without intermediaries.",
+        "question": "How does blockchain technology ensure security and transparency in cryptocurrency transactions, and what role do smart contracts play in this process?"
+      },
+      {
+        "id": 108,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "Computer programming involves writing instructions that a computer can follow to perform tasks. Programming languages, such as Python, Java, and C++, are used to create software applications. Each programming language has its syntax and rules. Some languages are more suited for certain types of applications than others. For example, Python is often used for data analysis and machine learning, while C++ is used for system-level programming and performance-critical applications.",
+        "question": "How do programming languages like Python and C++ differ in terms of their usage and application areas?"
+      },
+      {
+        "id": 109,
+        "difficulty": "medium",
+        "tag": "short answer question",
+        "context": "Cloud storage is an online service that allows individuals and organizations to store data on remote servers instead of on local hard drives. This allows for easy access to files from anywhere with an internet connection. Cloud storage services like Google Drive and Dropbox also provide file sharing and collaboration features, making them useful for team projects. Security measures such as encryption and multi-factor authentication are used to protect data stored in the cloud.",
+        "question": "What are the benefits of cloud storage compared to traditional local storage, and how do services like Google Drive ensure data security?"
+      },
+      {
+        "id": 110,
+        "difficulty": "hard",
+        "tag": "long answer question",
+        "context": "Network security involves protecting the integrity, confidentiality, and availability of data and systems on a network. This is done through various mechanisms such as firewalls, encryption, intrusion detection systems, and secure protocols. A strong network security strategy includes both preventive measures, such as securing devices and limiting access, and reactive measures, like monitoring traffic for suspicious activity. The growth of cyber threats has made network security an essential part of any organization’s IT infrastructure.",
+        "question": "What are the key components of a network security strategy, and how do firewalls and encryption work together to protect data from cyber threats?"
+      }    
+]

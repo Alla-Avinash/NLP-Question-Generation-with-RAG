@@ -1,0 +1,976 @@
+[
+    {
+      "id": 1,
+      "difficulty": "multiple choice question",
+      "tag": "long answer question",
+      "context": "Rainforests are essential to Earth’s ecosystem. They produce oxygen, absorb carbon dioxide, and help regulate the global climate. Rainforests are also home to more than half of the world’s plant and animal species. Despite their importance, they are being destroyed at an alarming rate due to logging, agriculture, and mining. When rainforests are cleared, biodiversity is lost, and carbon is released into the atmosphere, contributing to global warming. Indigenous people who depend on these forests are also displaced. Preserving rainforests is vital for maintaining environmental balance and protecting wildlife.",
+      "question": "Which of the following is a consequence of rainforest destruction?",
+      "options": ["Improved biodiversity", "Carbon absorption", "Global warming", "Increased rainfall"],
+      "answer": "Global warming"
+    },
+    {
+      "id": 2,
+      "difficulty": "multiple choice question",
+      "tag": "long answer question",
+      "context": "Electric vehicles (EVs) are becoming increasingly popular as people seek cleaner transportation options. Unlike gasoline cars, EVs produce no tailpipe emissions, which helps reduce urban air pollution. They run on electricity stored in batteries, which can be charged at home or at charging stations. Though EVs have a higher upfront cost, they save money over time due to lower fuel and maintenance expenses. However, challenges remain, such as limited charging infrastructure and the environmental impact of battery production. Still, EVs are a promising step toward reducing dependence on fossil fuels.",
+      "question": "What is one major benefit of electric vehicles?",
+      "options": ["High fuel consumption", "Tailpipe emissions", "Reduced air pollution", "Limited driving range"],
+      "answer": "Reduced air pollution"
+    },
+    {
+      "id": 3,
+      "difficulty": "multiple choice question",
+      "tag": "long answer question",
+      "context": "Plastic pollution is a global environmental problem. Single-use plastics, like bags and straws, are used briefly but can take hundreds of years to break down. These plastics often end up in oceans, where they harm marine life. Animals mistake plastic for food, leading to injury or death. Microplastics, which are tiny plastic particles, have even been found in drinking water. Reducing plastic use, recycling, and switching to biodegradable alternatives are key to solving this issue. Public awareness and strong policies can also help reduce plastic pollution.",
+      "question": "Which of the following is true about plastic pollution?",
+      "options": ["Plastic breaks down quickly in nature", "Microplastics are harmless", "It endangers marine animals", "Single-use plastics improve ocean health"],
+      "answer": "It endangers marine animals"
+    },
+    {
+      "id": 4,
+      "difficulty": "multiple choice question",
+      "tag": "long answer question",
+      "context": "The internet has transformed how people communicate, work, and learn. It allows instant sharing of information and provides access to a wealth of resources. Online platforms enable remote work, virtual meetings, and online education. Social media connects people globally and allows for quick updates. However, the internet also presents challenges such as misinformation, privacy concerns, and cyberbullying. Users must be cautious and responsible while navigating the digital space. With proper regulation and digital literacy, the internet can remain a powerful tool for development.",
+      "question": "Which of the following is a challenge of internet use?",
+      "options": ["Virtual meetings", "Remote work", "Cyberbullying", "Instant information sharing"],
+      "answer": "Cyberbullying"
+    },
+    {
+      "id": 5,
+      "difficulty": "multiple choice question",
+      "tag": "long answer question",
+      "context": "Recycling is an effective way to reduce waste and protect the environment. It involves converting waste materials into new products. Recycling helps conserve natural resources, saves energy, and reduces landfill space. For example, recycling aluminum uses 95% less energy than producing it from raw materials. However, not all materials are recyclable, and improper sorting can contaminate recycling streams. Public education and better recycling infrastructure can increase participation and improve outcomes. Communities around the world are adopting recycling programs to promote sustainability.",
+      "question": "What is one key benefit of recycling?",
+      "options": ["Increases landfill space", "Uses more raw materials", "Conserves natural resources", "Contaminates waste"],
+      "answer": "Conserves natural resources"
+    },
+    {
+      "id": 6,
+      "difficulty": "multiple choice question",
+      "tag": "long answer question",
+      "context": "Renewable energy comes from natural sources that are constantly replenished, such as sunlight, wind, and water. Unlike fossil fuels, these sources produce little or no pollution. Solar panels and wind turbines are commonly used to harness these energies. Switching to renewable energy reduces greenhouse gas emissions and combats climate change. However, challenges include storage, cost, and variability. Despite this, many countries are investing in renewable technologies to build a cleaner and more sustainable energy future.",
+      "question": "Which of the following is a renewable energy source?",
+      "options": ["Coal", "Natural gas", "Wind", "Oil"],
+      "answer": "Wind"
+    },
+    {
+      "id": 7,
+      "difficulty": "multiple choice question",
+      "tag": "long answer question",
+      "context": "Libraries are more than just places to borrow books. They provide access to knowledge, free internet, educational programs, and community services. Libraries support lifelong learning and literacy for all age groups. In many areas, they serve as safe spaces for students and researchers. Digital libraries and e-books have expanded their reach, allowing people to access resources from anywhere. Despite modern technology, libraries remain essential for equitable access to information and community engagement.",
+      "question": "What is one modern service offered by libraries?",
+      "options": ["Selling books", "Free electricity", "Online resource access", "Food delivery"],
+      "answer": "Online resource access"
+    },
+    {
+      "id": 8,
+      "difficulty": "multiple choice question",
+      "tag": "long answer question",
+      "context": "Space exploration has led to many discoveries and technological advances. It has improved our understanding of planets, stars, and the universe. Technologies developed for space missions have also benefited life on Earth, such as satellite communication, GPS, and medical imaging. Despite high costs, space programs inspire innovation and international collaboration. Continued exploration may one day allow humans to live on other planets, with Mars being a prime candidate. Funding and sustainability remain key concerns for future missions.",
+      "question": "Which of the following was influenced by space exploration?",
+      "options": ["GPS technology", "Fossil fuel usage", "Paper manufacturing", "Marine biology"],
+      "answer": "GPS technology"
+    },
+    {
+      "id": 9,
+      "difficulty": "multiple choice question",
+      "tag": "long answer question",
+      "context": "Healthy eating involves consuming a balanced diet rich in fruits, vegetables, whole grains, and lean proteins. It supports physical growth, boosts immunity, and reduces the risk of chronic diseases. Drinking enough water and limiting processed foods, sugar, and salt are also important. People with poor eating habits may face issues like obesity, diabetes, or heart problems. Nutrition education can help people make better food choices and lead healthier lives.",
+      "question": "Which of the following is considered part of a healthy diet?",
+      "options": ["Sugary drinks", "Whole grains", "Processed snacks", "Excess salt"],
+      "answer": "Whole grains"
+    },
+    {
+      "id": 10,
+      "difficulty": "multiple choice question",
+      "tag": "long answer question",
+      "context": "Climate change refers to long-term changes in temperature, precipitation, and weather patterns. It is largely driven by human activities such as burning fossil fuels and deforestation. The effects include rising sea levels, melting glaciers, and more frequent extreme weather events. Addressing climate change requires global cooperation, policy changes, and sustainable practices. Individuals can contribute by reducing energy use, recycling, and supporting clean energy initiatives.",
+      "question": "Which of the following is a cause of climate change?",
+      "options": ["Planting trees", "Deforestation", "Using solar energy", "Recycling waste"],
+      "answer": "Deforestation"
+    },
+    {
+      "id": 11,
+      "difficulty": "multiple choice question",
+      "tag": "long answer question",
+      "context": "Exercise is crucial for maintaining physical and mental health. It strengthens muscles, improves cardiovascular fitness, and helps control weight. Exercise also reduces stress, anxiety, and depression. Activities like walking, running, swimming, and yoga offer various benefits. Experts recommend at least 150 minutes of moderate exercise per week. Consistency and proper technique are key to gaining the benefits of exercise without injury.",
+      "question": "Which of the following is a mental health benefit of exercise?",
+      "options": ["Weight gain", "Improved stress levels", "Increased cholesterol", "Dehydration"],
+      "answer": "Improved stress levels"
+    },
+    {
+        "id": 12,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Artificial intelligence (AI) is revolutionizing many industries by automating tasks and improving decision-making processes. AI systems can analyze vast amounts of data, recognize patterns, and even predict outcomes. Applications of AI include facial recognition, speech recognition, autonomous vehicles, and personalized recommendations. However, concerns about job displacement and ethical issues in AI deployment are growing. Striking a balance between innovation and responsibility is crucial to ensure that AI benefits society as a whole.",
+        "question": "Which of the following is an application of AI?",
+        "options": ["Manual labor", "Facial recognition", "Paper printing", "Data entry"],
+        "answer": "Facial recognition"
+      },
+      {
+        "id": 13,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The Internet of Things (IoT) refers to the connection of everyday objects to the internet, allowing them to send and receive data. IoT devices range from home appliances like refrigerators and thermostats to industrial machines and healthcare devices. These devices can improve efficiency, convenience, and safety. However, IoT also raises concerns about privacy, data security, and the management of large amounts of information. As IoT expands, addressing these concerns will be critical to its widespread adoption.",
+        "question": "What does the Internet of Things (IoT) involve?",
+        "options": ["Isolated devices", "Manual control of appliances", "Internet-connected devices", "Limited data sharing"],
+        "answer": "Internet-connected devices"
+      },
+      {
+        "id": 14,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Global warming is a gradual increase in the Earth's average surface temperature due to human activities, primarily the burning of fossil fuels. This process leads to higher levels of carbon dioxide and other greenhouse gases in the atmosphere. As a result, the planet experiences rising sea levels, extreme weather events, and shifting ecosystems. Mitigating global warming requires international cooperation, sustainable energy practices, and reducing greenhouse gas emissions. Public awareness and policy action are also essential in addressing this global challenge.",
+        "question": "What is the primary cause of global warming?",
+        "options": ["Deforestation", "Solar radiation", "Burning of fossil fuels", "Ocean currents"],
+        "answer": "Burning of fossil fuels"
+      },
+      {
+        "id": 15,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The concept of renewable energy refers to energy sources that are naturally replenished, such as wind, solar, and hydropower. Unlike fossil fuels, renewable energy is abundant and causes minimal environmental damage. These energy sources help reduce carbon emissions and combat climate change. However, the production and storage of renewable energy still face challenges, such as high costs and intermittency. Nonetheless, renewable energy plays a critical role in creating a sustainable and eco-friendly energy future.",
+        "question": "Which of the following is considered renewable energy?",
+        "options": ["Natural gas", "Coal", "Solar energy", "Nuclear energy"],
+        "answer": "Solar energy"
+      },
+      {
+        "id": 16,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "E-commerce has transformed the way consumers shop. With the rise of online stores and platforms like Amazon, consumers can purchase goods from anywhere at any time. E-commerce offers a wide variety of products and the convenience of home delivery. However, challenges such as fraud, data privacy concerns, and environmental impact of shipping remain. Despite these issues, e-commerce continues to grow as businesses adapt to online shopping trends and consumer demands.",
+        "question": "Which of the following is a benefit of e-commerce?",
+        "options": ["Limited product variety", "High shipping costs", "Convenience of home delivery", "In-person shopping experience"],
+        "answer": "Convenience of home delivery"
+      },
+      {
+        "id": 17,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Social media platforms, such as Facebook, Twitter, and Instagram, have significantly changed how people interact and communicate. They allow users to share their thoughts, opinions, and personal experiences with a global audience. Social media also serves as a tool for business marketing and political activism. However, these platforms have been criticized for spreading misinformation, promoting unrealistic lifestyles, and contributing to mental health issues. To maximize the positive effects, it is important to use social media responsibly and be mindful of its impact on society.",
+        "question": "What is a criticism of social media platforms?",
+        "options": ["Promotes realistic lifestyles", "Spreads misinformation", "Reduces global communication", "Improves face-to-face interactions"],
+        "answer": "Spreads misinformation"
+      },
+      {
+        "id": 18,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Blockchain technology is a decentralized and secure way to record transactions. Originally created for cryptocurrency like Bitcoin, it has expanded to various industries, including healthcare, finance, and supply chain management. Blockchain eliminates the need for a central authority, allowing for more transparency and reducing the risk of fraud. However, blockchain faces challenges such as scalability, energy consumption, and regulatory uncertainty. As adoption grows, it will be important to address these issues for broader implementation.",
+        "question": "Which industry has adopted blockchain technology?",
+        "options": ["Healthcare", "Fashion", "Agriculture", "Mining"],
+        "answer": "Healthcare"
+      },
+      {
+        "id": 19,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Education has evolved significantly with the integration of technology. Online learning platforms, digital classrooms, and interactive tools have enhanced educational experiences. Students can access a wide range of resources from anywhere, and teachers can use technology to facilitate personalized learning. However, challenges such as digital divide, screen addiction, and data privacy issues remain. While technology has the potential to revolutionize education, addressing these challenges will ensure that it benefits all students equitably.",
+        "question": "Which of the following is a challenge of technology in education?",
+        "options": ["Personalized learning", "Access to online resources", "Screen addiction", "Interactive tools"],
+        "answer": "Screen addiction"
+      },
+      {
+        "id": 20,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The internet has become an essential tool in modern society, allowing for instant communication, access to information, and global connectivity. Websites, social media platforms, and online services have revolutionized how people work, socialize, and shop. However, the internet also poses risks such as privacy concerns, cybercrime, and online addiction. Ensuring safe and responsible use of the internet is crucial for maintaining its benefits while minimizing harm.",
+        "question": "What is one risk of internet use?",
+        "options": ["Instant communication", "Access to information", "Privacy concerns", "Global connectivity"],
+        "answer": "Privacy concerns"
+      },
+      {
+        "id": 21,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Cloud computing allows businesses and individuals to access computing resources over the internet instead of relying on local servers or personal computers. This technology offers flexibility, scalability, and cost-effectiveness. Users can store data, run applications, and access services remotely. However, security concerns such as data breaches and service disruptions remain challenges in adopting cloud computing. Despite this, the cloud continues to revolutionize industries by providing faster, more efficient ways to operate.",
+        "question": "What is one of the challenges of cloud computing?",
+        "options": ["Cost-effectiveness", "Data breaches", "Scalability", "Remote access"],
+        "answer": "Data breaches"
+      },
+      {
+        "id": 22,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Quantum computing harnesses the principles of quantum mechanics to process information in ways that classical computers cannot. Unlike traditional bits, which represent data as either 0 or 1, quantum bits (qubits) can represent data in multiple states simultaneously, allowing for faster computations. While quantum computing promises to revolutionize fields such as cryptography, material science, and artificial intelligence, it still faces significant challenges, including the need for stable qubits and scalable systems.",
+        "question": "What makes quantum computing different from classical computing?",
+        "options": ["Qubits can represent multiple states", "It uses classical bits", "It operates slower", "It doesn’t require algorithms"],
+        "answer": "Qubits can represent multiple states"
+      },
+      {
+        "id": 23,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The human brain is the most complex organ in the body, consisting of around 86 billion neurons that communicate through electrical signals. These neurons form networks that control everything from basic motor skills to higher cognitive functions such as learning, memory, and decision-making. The brain is also highly adaptable, with its ability to reorganize and form new connections, a phenomenon known as neuroplasticity. However, brain disorders like Alzheimer's and Parkinson's can disrupt these processes and severely impact quality of life.",
+        "question": "What is neuroplasticity?",
+        "options": ["The ability to form new neurons", "The ability to reorganize and form new connections", "A condition affecting brain communication", "A type of memory disorder"],
+        "answer": "The ability to reorganize and form new connections"
+      },
+      {
+        "id": 24,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Electric vehicles (EVs) are becoming increasingly popular as a more sustainable alternative to gasoline-powered cars. EVs run on electric motors powered by batteries, which reduces their carbon footprint. While they offer benefits like lower emissions and reduced dependency on fossil fuels, the environmental impact of battery production and the limited range of some EVs are challenges that need to be addressed. Innovations in battery technology and charging infrastructure are essential for EVs to become a mainstream option.",
+        "question": "What is a challenge for electric vehicles?",
+        "options": ["Lower emissions", "Battery production impact", "Reduced carbon footprint", "Longer range"],
+        "answer": "Battery production impact"
+      },
+      {
+        "id": 25,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Artificial intelligence is a broad field that encompasses many subfields, including machine learning, deep learning, and natural language processing. AI systems are designed to perform tasks that typically require human intelligence, such as recognizing speech, understanding language, and making decisions. While AI has the potential to transform industries like healthcare, finance, and transportation, there are concerns regarding job displacement, ethical considerations, and the risk of biased algorithms.",
+        "question": "Which of the following is a concern regarding artificial intelligence?",
+        "options": ["Machine learning applications", "Biased algorithms", "Natural language processing", "Deep learning techniques"],
+        "answer": "Biased algorithms"
+      },
+      {
+        "id": 26,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Robotic process automation (RPA) involves the use of software robots or 'bots' to automate repetitive tasks, such as data entry, processing transactions, or managing emails. RPA is widely used across industries to increase efficiency, reduce human error, and lower operational costs. However, implementing RPA comes with challenges such as technical complexity, high initial costs, and resistance from employees who fear job loss due to automation.",
+        "question": "What is one challenge of implementing robotic process automation?",
+        "options": ["Increased operational costs", "Employee resistance", "Reduced efficiency", "Elimination of software bots"],
+        "answer": "Employee resistance"
+      },
+      {
+        "id": 27,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The development of new medicines is a complex and time-consuming process that involves various stages, including drug discovery, preclinical testing, clinical trials, and regulatory approval. Advances in biotechnology, such as gene editing and personalized medicine, have accelerated drug development and improved treatment outcomes. However, challenges remain, including the high cost of research, long timelines, and the need to ensure the safety and efficacy of new drugs before they reach the market.",
+        "question": "What is a challenge in drug development?",
+        "options": ["Personalized medicine", "High cost of research", "Gene editing", "Short timelines"],
+        "answer": "High cost of research"
+      },
+      {
+        "id": 28,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Cryptocurrency is a type of digital or virtual currency that uses cryptography for security. Bitcoin, the first and most well-known cryptocurrency, was created in 2009 and has since sparked the development of many other cryptocurrencies. These currencies are decentralized, meaning they are not controlled by any government or financial institution. Despite their advantages, such as fast transactions and lower fees, cryptocurrencies face challenges such as volatility, regulation, and security concerns.",
+        "question": "What is a challenge faced by cryptocurrencies?",
+        "options": ["Lower transaction fees", "Government regulation", "Fast transactions", "Lack of security concerns"],
+        "answer": "Government regulation"
+      },
+      {
+        "id": 29,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The human immune system is responsible for defending the body against harmful pathogens such as bacteria, viruses, and fungi. It consists of several components, including white blood cells, antibodies, and other molecules that work together to identify and neutralize threats. Vaccines help strengthen the immune system by training it to recognize specific pathogens without causing illness. Despite these defenses, the immune system can sometimes malfunction, leading to autoimmune diseases or allergies.",
+        "question": "What is one function of the immune system?",
+        "options": ["Defending against pathogens", "Producing energy", "Regulating body temperature", "Helping digestion"],
+        "answer": "Defending against pathogens"
+      },
+      {
+        "id": 30,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The process of photosynthesis allows plants to convert light energy into chemical energy, which they use to fuel their growth and produce oxygen. During this process, plants absorb carbon dioxide from the air and release oxygen into the atmosphere. Photosynthesis is essential for life on Earth, as it is the primary source of oxygen and energy for many organisms. However, factors such as pollution, deforestation, and climate change can affect the efficiency of photosynthesis.",
+        "question": "What is the role of photosynthesis in plants?",
+        "options": ["Converting light energy into chemical energy", "Releasing carbon dioxide", "Producing carbon energy", "Absorbing oxygen"],
+        "answer": "Converting light energy into chemical energy"
+      },
+      {
+        "id": 31,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Climate change refers to long-term changes in temperature, precipitation patterns, and other atmospheric conditions on Earth. Human activities, such as burning fossil fuels, deforestation, and industrial processes, have significantly contributed to climate change by increasing the concentration of greenhouse gases in the atmosphere. The effects of climate change include rising sea levels, more frequent and severe weather events, and disruptions to ecosystems and agriculture.",
+        "question": "What is one effect of climate change?",
+        "options": ["More frequent weather events", "Lower temperatures", "Decreased greenhouse gases", "Reduced sea levels"],
+        "answer": "More frequent weather events"
+      },
+      {
+        "id": 32,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Autonomous vehicles use a combination of sensors, cameras, and AI algorithms to navigate and make decisions without human intervention. These vehicles are designed to reduce accidents, improve traffic flow, and make transportation more efficient. While the technology holds great promise, challenges remain, such as regulatory approval, public acceptance, and ensuring safety in various driving conditions. Developers are working to address these challenges to make autonomous vehicles a viable option for the future.",
+        "question": "What is a challenge of autonomous vehicles?",
+        "options": ["Reduced accidents", "Regulatory approval", "Improved traffic flow", "Human intervention"],
+        "answer": "Regulatory approval"
+      },
+      {
+        "id": 33,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Social determinants of health include factors such as income, education, employment, and social support, which can influence an individual’s overall health and well-being. These factors often determine access to healthcare, nutrition, and safe living conditions. Addressing social determinants is crucial in reducing health disparities and promoting equitable healthcare for all populations. Governments and organizations work to improve these factors to promote better health outcomes in underserved communities.",
+        "question": "What are social determinants of health?",
+        "options": ["Health insurance policies", "Income, education, and employment", "Public health campaigns", "Genetic predispositions"],
+        "answer": "Income, education, and employment"
+      },
+      {
+        "id": 34,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The Internet of Things (IoT) refers to the network of physical objects embedded with sensors, software, and other technologies that allow them to connect and exchange data over the internet. IoT is used in applications such as smart homes, industrial automation, and healthcare monitoring. While IoT has many benefits, such as increased efficiency and convenience, it also raises concerns about security, privacy, and the potential for data breaches.",
+        "question": "What is a concern regarding the Internet of Things?",
+        "options": ["Increased efficiency", "Data breaches", "Smart home benefits", "Healthcare monitoring"],
+        "answer": "Data breaches"
+      },
+      {
+        "id": 35,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Blockchain technology is a decentralized, distributed ledger that records transactions across multiple computers. It is the underlying technology behind cryptocurrencies like Bitcoin. Blockchain offers transparency, security, and the ability to verify transactions without a central authority. However, scalability issues and energy consumption concerns are some of the challenges faced by blockchain technology.",
+        "question": "What is one challenge of blockchain technology?",
+        "options": ["Decentralized transactions", "Energy consumption", "Transaction transparency", "Data security"],
+        "answer": "Energy consumption"
+      },
+      {
+        "id": 36,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "5G technology promises faster download speeds, lower latency, and greater connectivity compared to previous generations of wireless networks. This technology is expected to enable advancements in areas such as autonomous vehicles, smart cities, and the Internet of Things. However, the deployment of 5G infrastructure requires significant investment, and concerns about health risks related to radiation exposure have been raised.",
+        "question": "What is a concern regarding 5G technology?",
+        "options": ["Increased download speeds", "Health risks from radiation exposure", "Improved connectivity", "Smart city applications"],
+        "answer": "Health risks from radiation exposure"
+      },
+      {
+        "id": 37,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Gene editing techniques, such as CRISPR-Cas9, allow scientists to modify the DNA of living organisms with high precision. These techniques hold promise for treating genetic disorders, improving crop yields, and advancing medical research. However, ethical concerns regarding the potential for 'designer babies' and the unintended consequences of genetic modifications have sparked debates.",
+        "question": "What is an ethical concern regarding gene editing?",
+        "options": ["Improved crop yields", "Designer babies", "Medical research advancements", "Treatment of genetic disorders"],
+        "answer": "Designer babies"
+      },
+      {
+        "id": 38,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Augmented reality (AR) overlays digital content onto the real world, enhancing a user’s perception of their environment. It has applications in gaming, education, retail, and healthcare. AR works by using cameras, sensors, and displays to merge digital elements with real-world scenes. Despite its potential, challenges include the need for powerful hardware, user adoption, and content creation.",
+        "question": "What is a challenge of augmented reality?",
+        "options": ["User adoption", "Digital content creation", "Powerful hardware requirements", "All of the above"],
+        "answer": "All of the above"
+      },
+      {
+        "id": 39,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Self-driving cars use various technologies, including sensors, cameras, machine learning algorithms, and GPS, to navigate roads and make decisions without human intervention. While they promise increased safety, reduced traffic congestion, and energy efficiency, they also present challenges such as regulatory approval, ethical considerations in decision-making, and technological limitations in certain environments.",
+        "question": "What is a challenge of self-driving cars?",
+        "options": ["Machine learning algorithms", "Regulatory approval", "Energy efficiency", "Increased traffic congestion"],
+        "answer": "Regulatory approval"
+      },
+      {
+        "id": 40,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The human microbiome is the collection of trillions of microorganisms living in and on the human body. These microbes play a crucial role in digestion, immunity, and overall health. Recent research suggests that the microbiome may also influence mental health and chronic diseases. However, more research is needed to fully understand the complexities of the microbiome and its impact on human health.",
+        "question": "What is the human microbiome?",
+        "options": ["Trillions of microorganisms", "Digestive enzymes", "Immune cells", "A type of virus"],
+        "answer": "Trillions of microorganisms"
+      },
+      {
+        "id": 41,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The development of artificial intelligence in the healthcare industry is revolutionizing patient care and treatment. AI algorithms can analyze medical data, predict diseases, assist in diagnostics, and help in personalized treatment plans. However, the integration of AI into healthcare raises ethical concerns, including data privacy, the potential for biases in algorithms, and the reliance on technology over human judgment.",
+        "question": "What is a concern regarding AI in healthcare?",
+        "options": ["Data privacy", "Faster diagnoses", "Personalized treatment", "Predicting diseases"],
+        "answer": "Data privacy"
+      },
+      {
+        "id": 42,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Biotechnology involves the use of living organisms or biological systems to develop products and technologies that improve human health, agriculture, and the environment. From genetically modified crops to gene therapy, biotechnology has the potential to solve many global challenges. However, concerns about the ethical implications of genetic modifications and the environmental impact of certain biotechnologies persist.",
+        "question": "What is a concern regarding biotechnology?",
+        "options": ["Ethical implications of genetic modifications", "Genetically modified crops", "Gene therapy", "Environmental benefits"],
+        "answer": "Ethical implications of genetic modifications"
+      },
+      {
+        "id": 43,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The concept of sustainable development focuses on meeting the needs of the present generation without compromising the ability of future generations to meet their own needs. This includes promoting economic growth, social inclusion, and environmental protection. While there is significant progress in sustainability initiatives, challenges like resource depletion, climate change, and inequality remain.",
+        "question": "What is sustainable development?",
+        "options": ["Meeting present needs without compromising future generations", "Focusing only on environmental protection", "Economic growth without considering social inclusion", "Ignoring the future generation's needs"],
+        "answer": "Meeting present needs without compromising future generations"
+      },
+      {
+        "id": 44,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The rapid advancement of 3D printing technology allows for the creation of three-dimensional objects from digital files. It has revolutionized industries such as manufacturing, healthcare, and aerospace by enabling rapid prototyping and on-demand production. However, challenges such as material limitations, high initial costs, and the need for specialized skills still exist.",
+        "question": "What is a challenge of 3D printing?",
+        "options": ["Material limitations", "Rapid prototyping", "On-demand production", "Lower costs"],
+        "answer": "Material limitations"
+      },
+      {
+        "id": 45,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Gene therapy involves the insertion, alteration, or removal of genes within a patient’s cells to treat or prevent disease. It holds potential for treating genetic disorders, cancers, and viral infections. Despite its promise, gene therapy faces challenges, including ethical concerns, high treatment costs, and potential side effects.",
+        "question": "What is a challenge of gene therapy?",
+        "options": ["Ethical concerns", "High treatment costs", "Potential side effects", "All of the above"],
+        "answer": "All of the above"
+      },
+      {
+        "id": 46,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Artificial photosynthesis mimics the natural process of photosynthesis, using sunlight to convert carbon dioxide and water into energy-rich fuels like hydrogen. This technology has the potential to provide a sustainable and renewable energy source. However, it faces challenges in scaling up and efficiency in real-world applications.",
+        "question": "What is a challenge of artificial photosynthesis?",
+        "options": ["Scaling up and efficiency", "Use of sunlight", "Conversion of hydrogen into energy", "Production of carbon dioxide"],
+        "answer": "Scaling up and efficiency"
+      },
+      {
+        "id": 47,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The concept of smart cities refers to urban areas that use digital technology to enhance performance, well-being, and reduce costs & resource consumption. Technologies such as IoT, AI, and big data are used to manage everything from traffic flow to waste management. However, challenges include data privacy, infrastructure costs, and the risk of excluding underserved communities.",
+        "question": "What is a challenge of smart cities?",
+        "options": ["Data privacy", "Reduced costs", "Energy efficiency", "Resource consumption reduction"],
+        "answer": "Data privacy"
+      },
+      {
+        "id": 48,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Renewable energy sources, such as solar, wind, and hydroelectric power, are key to reducing reliance on fossil fuels and mitigating climate change. They are clean, sustainable, and abundant. However, renewable energy also faces challenges such as storage issues, intermittent energy production, and the high costs associated with infrastructure development.",
+        "question": "What is a challenge of renewable energy?",
+        "options": ["Storage issues", "Clean energy production", "Abundant resources", "Low costs"],
+        "answer": "Storage issues"
+      },
+      {
+        "id": 49,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Nanotechnology is the manipulation of matter on an atomic or molecular scale. It has applications in medicine, electronics, and materials science, offering the potential for breakthroughs in drug delivery, cancer treatment, and the creation of new materials. However, concerns about the safety of nanoparticles and their environmental impact have been raised.",
+        "question": "What is a concern of nanotechnology?",
+        "options": ["Safety of nanoparticles", "Breakthroughs in drug delivery", "Creation of new materials", "Electronics development"],
+        "answer": "Safety of nanoparticles"
+      },
+      {
+        "id": 50,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Carbon capture and storage (CCS) refers to technologies that capture carbon dioxide emissions from sources like power plants and store them underground to prevent them from entering the atmosphere. While CCS has the potential to reduce greenhouse gas emissions, challenges include high costs, the need for suitable storage sites, and concerns over the long-term safety of CO2 storage.",
+        "question": "What is a challenge of carbon capture and storage (CCS)?",
+        "options": ["High costs", "Low emissions", "Suitable storage sites", "Long-term safety concerns"],
+        "answer": "High costs"
+      },
+      {
+        "id": 51,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Digital twins are virtual representations of physical objects or systems, used to simulate, analyze, and optimize their performance. They are used in industries such as manufacturing, aerospace, and healthcare. The integration of IoT sensors with digital twins enables real-time monitoring and predictive maintenance. However, challenges include data security and the complexity of integrating data from multiple sources.",
+        "question": "What is a challenge of digital twins?",
+        "options": ["Data security", "Real-time monitoring", "Predictive maintenance", "Integration of IoT sensors"],
+        "answer": "Data security"
+      },
+      {
+        "id": 52,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Sustainable agriculture focuses on farming practices that meet current food needs without compromising the ability of future generations to meet their own needs. It involves practices such as crop rotation, organic farming, and efficient water use. While sustainable agriculture offers long-term benefits, challenges include economic viability and the need for widespread adoption.",
+        "question": "What is a challenge of sustainable agriculture?",
+        "options": ["Economic viability", "Efficient water use", "Organic farming", "Crop rotation"],
+        "answer": "Economic viability"
+      },
+      {
+        "id": 53,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Cloud storage services allow users to store and access their data online, eliminating the need for physical storage devices. They are popular for personal and business use, offering scalability, remote access, and data backup. However, concerns about data privacy and security, as well as service outages, have been raised.",
+        "question": "What is a concern of cloud storage?",
+        "options": ["Data privacy and security", "Remote access", "Data backup", "Scalability"],
+        "answer": "Data privacy and security"
+      },
+      {
+        "id": 54,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The global digital divide refers to the gap between those who have access to modern information and communication technologies and those who do not. This divide can result from factors such as geography, income, education, and infrastructure. Bridging the digital divide is essential for ensuring equal access to opportunities in education, healthcare, and employment.",
+        "question": "What is the global digital divide?",
+        "options": ["Access to modern information technology", "Educational opportunities", "Healthcare disparities", "Geographic location"],
+        "answer": "Access to modern information technology"
+      },
+      {
+        "id": 55,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Smart grids use digital technology to monitor and manage the flow of electricity from suppliers to consumers. They improve the efficiency, reliability, and sustainability of electricity distribution. However, challenges include high implementation costs, cybersecurity risks, and the need for infrastructure upgrades.",
+        "question": "What is a challenge of smart grids?",
+        "options": ["High implementation costs", "Improved reliability", "Electricity distribution", "Sustainability of power sources"],
+        "answer": "High implementation costs"
+      },
+      {
+        "id": 56,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Cybersecurity involves protecting networks, systems, and data from digital attacks, theft, and damage. As technology advances, cyber threats become more sophisticated, requiring constant innovation in defense mechanisms. Regular updates and security practices like encryption, multi-factor authentication, and firewalls are crucial in preventing breaches.",
+        "question": "What is crucial for preventing cyberattacks?",
+        "options": ["Regular updates", "Increased power supply", "Larger storage", "Better internet speed"],
+        "answer": "Regular updates"
+      },
+      {
+        "id": 57,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Blockchain is a decentralized digital ledger used to securely record transactions. Each block contains transaction data, and every new block links to the previous one. Blockchain’s transparency and immutability make it popular for cryptocurrency, but it also has applications in supply chain management and secure voting systems.",
+        "question": "What is the main feature of blockchain?",
+        "options": ["Transparency", "Faster transactions", "Increased privacy", "Reduced costs"],
+        "answer": "Transparency"
+      },
+      {
+        "id": 58,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Machine learning enables computers to learn from data and improve their performance over time. It uses algorithms to detect patterns, make decisions, and predict outcomes. While it is widely applied in areas like speech recognition and data analysis, challenges like bias in training data remain.",
+        "question": "What is a challenge in machine learning?",
+        "options": ["Bias in training data", "Increased storage capacity", "Faster processing speed", "Better connectivity"],
+        "answer": "Bias in training data"
+      },
+      {
+        "id": 59,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Renewable energy, such as wind, solar, and hydropower, provides sustainable alternatives to fossil fuels. These sources reduce carbon emissions and offer long-term environmental benefits. However, renewable energy systems still face challenges such as dependency on weather conditions and high infrastructure costs.",
+        "question": "What is a challenge of renewable energy?",
+        "options": ["Dependency on weather conditions", "Carbon emissions", "Low infrastructure costs", "Limited energy production"],
+        "answer": "Dependency on weather conditions"
+      },
+      {
+        "id": 60,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Smartphones have become essential in modern life, offering communication, entertainment, and productivity tools. With high-speed internet, apps, and access to various services, they enable instant connectivity. However, they also raise concerns about privacy, screen addiction, and excessive reliance on technology.",
+        "question": "What is a concern related to smartphones?",
+        "options": ["Privacy", "Battery life", "Screen size", "App variety"],
+        "answer": "Privacy"
+      },
+      {
+        "id": 61,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Social media platforms connect people globally, allowing them to share information, ideas, and experiences. While they offer opportunities for networking, socializing, and business, they can also lead to issues like cyberbullying, misinformation, and privacy violations.",
+        "question": "What is a problem with social media?",
+        "options": ["Cyberbullying", "Increased networking", "Better connectivity", "Information sharing"],
+        "answer": "Cyberbullying"
+      },
+      {
+        "id": 62,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Electric vehicles (EVs) are becoming more popular as an alternative to gasoline-powered cars. EVs are more environmentally friendly and help reduce air pollution. However, they still face challenges such as limited charging infrastructure and longer refueling times compared to traditional vehicles.",
+        "question": "What is a challenge of electric vehicles?",
+        "options": ["Limited charging infrastructure", "Higher emissions", "Faster refueling", "Lack of innovation"],
+        "answer": "Limited charging infrastructure"
+      },
+      {
+        "id": 63,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Autonomous drones have applications in fields like agriculture, logistics, and surveillance. They are capable of performing tasks like crop monitoring, package delivery, and aerial imaging. However, concerns about airspace regulation, privacy, and safety need to be addressed before widespread adoption.",
+        "question": "What is a concern with autonomous drones?",
+        "options": ["Airspace regulation", "Faster delivery", "Improved battery life", "Increased data usage"],
+        "answer": "Airspace regulation"
+      },
+      {
+        "id": 64,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Cloud computing allows users to access and store data remotely on servers, rather than on local devices. It provides scalability, flexibility, and cost-efficiency. However, concerns about data security, outages, and dependency on internet connectivity remain important issues.",
+        "question": "What is a concern with cloud computing?",
+        "options": ["Data security", "Cost-efficiency", "Scalability", "Flexibility"],
+        "answer": "Data security"
+      },
+      {
+        "id": 65,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Biotechnology is used in various industries, including healthcare, agriculture, and environmental management. It involves using biological systems for technological innovations. While biotechnology offers solutions like improved crops and medical treatments, concerns about genetic manipulation and ethics persist.",
+        "question": "What is a concern with biotechnology?",
+        "options": ["Ethics", "Improved crops", "Medical treatments", "Biological systems"],
+        "answer": "Ethics"
+      },
+      {
+        "id": 66,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Quantum computing utilizes quantum mechanics to perform computations at a much faster rate than classical computers. It has the potential to revolutionize industries like cryptography, AI, and drug discovery. However, quantum computers are still in early development stages, with many technical challenges remaining.",
+        "question": "What is a challenge with quantum computing?",
+        "options": ["Technical challenges", "Faster data processing", "Better security", "Reduced costs"],
+        "answer": "Technical challenges"
+      },
+      {
+        "id": 67,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "3D printing allows for the creation of three-dimensional objects from digital files. It’s used in industries such as manufacturing, healthcare, and education for prototyping and production. However, it faces challenges such as material limitations and high initial costs for advanced printers.",
+        "question": "What is a challenge of 3D printing?",
+        "options": ["Material limitations", "Rapid prototyping", "Lower costs", "Increased storage space"],
+        "answer": "Material limitations"
+      },
+      {
+        "id": 68,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The Internet of Things (IoT) refers to the network of connected devices that can communicate and exchange data. IoT has applications in areas such as smart homes, healthcare, and industrial automation. However, it also raises concerns about security, data privacy, and device interoperability.",
+        "question": "What is a concern of the Internet of Things?",
+        "options": ["Data privacy", "Improved device performance", "Increased connectivity", "Low costs"],
+        "answer": "Data privacy"
+      },
+      {
+        "id": 69,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Artificial intelligence (AI) is being used across industries to automate tasks, enhance decision-making, and improve efficiency. From healthcare to finance, AI is revolutionizing processes. However, the technology also raises concerns about job displacement, ethical implications, and data bias.",
+        "question": "What is a concern about AI?",
+        "options": ["Job displacement", "Increased efficiency", "Better decision-making", "Enhanced automation"],
+        "answer": "Job displacement"
+      },
+      {
+        "id": 70,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Gene editing technologies, such as CRISPR, allow scientists to make precise changes to an organism’s DNA. While these technologies hold promise for treating genetic disorders and improving crops, they also raise concerns about unintended consequences and ethical dilemmas in manipulating the genetic code.",
+        "question": "What is a concern with gene editing?",
+        "options": ["Unintended consequences", "Improved crops", "Better disease treatment", "Precision accuracy"],
+        "answer": "Unintended consequences"
+      },
+      {
+        "id": 71,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Renewable energy sources, such as wind, solar, and hydroelectric power, offer sustainable solutions for reducing dependence on fossil fuels. However, these sources face challenges such as inconsistent energy production and the need for better energy storage solutions to ensure reliability.",
+        "question": "What is a challenge with renewable energy?",
+        "options": ["Inconsistent energy production", "Environmental impact", "Decreased efficiency", "Higher demand"],
+        "answer": "Inconsistent energy production"
+      },
+      {
+        "id": 72,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Artificial intelligence is being applied to healthcare for tasks such as diagnosis, treatment recommendations, and drug discovery. While AI offers significant benefits, challenges remain regarding its accuracy, transparency, and potential bias in decision-making.",
+        "question": "What is a challenge with AI in healthcare?",
+        "options": ["Accuracy", "Faster diagnosis", "Cost reduction", "Better data management"],
+        "answer": "Accuracy"
+      },
+      {
+        "id": 73,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Smart cities use technology to improve urban infrastructure, enhance public services, and create more sustainable environments. However, challenges such as high costs, privacy concerns, and the need for data integration across systems remain obstacles to widespread adoption.",
+        "question": "What is a challenge for smart cities?",
+        "options": ["High costs", "Improved sustainability", "Better public services", "Increased population density"],
+        "answer": "High costs"
+      },
+      {
+        "id": 74,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Social media platforms like Facebook, Twitter, and Instagram allow users to connect, share, and interact. While these platforms promote communication, they have also been criticized for their role in spreading misinformation, fostering addiction, and violating privacy.",
+        "question": "What is a criticism of social media platforms?",
+        "options": ["Spreading misinformation", "Enhanced communication", "Improved networking", "Better marketing opportunities"],
+        "answer": "Spreading misinformation"
+      },
+      {
+        "id": 75,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Electric vehicles (EVs) are considered environmentally friendly because they produce fewer emissions than traditional gasoline cars. However, the production of EVs still has an environmental impact, especially regarding the mining of lithium for batteries.",
+        "question": "What is a concern about electric vehicles?",
+        "options": ["Environmental impact of production", "Increased emissions", "High fuel costs", "Faster charging times"],
+        "answer": "Environmental impact of production"
+      },
+      {
+        "id": 76,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Artificial intelligence (AI) has the potential to revolutionize industries, such as healthcare and transportation. However, AI systems can sometimes exhibit biases due to the data they are trained on, leading to inaccurate predictions and unfair outcomes.",
+        "question": "What is a problem with AI systems?",
+        "options": ["Bias in training data", "Improved predictions", "Reduced costs", "Better decision-making"],
+        "answer": "Bias in training data"
+      },
+      {
+        "id": 77,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Cryptocurrencies, such as Bitcoin and Ethereum, operate on decentralized platforms using blockchain technology. While they offer advantages like transparency and security, their volatility and potential for illegal activity are concerns for regulators and users alike.",
+        "question": "What is a concern with cryptocurrencies?",
+        "options": ["Volatility", "Transparency", "Security", "Efficiency"],
+        "answer": "Volatility"
+      },
+      {
+        "id": 78,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The Internet of Things (IoT) refers to a network of connected devices that communicate and share data. IoT improves efficiency and convenience but also raises issues regarding security, privacy, and data management.",
+        "question": "What is a concern about IoT?",
+        "options": ["Security", "Efficiency", "Convenience", "Data sharing"],
+        "answer": "Security"
+      },
+      {
+        "id": 79,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Machine learning has revolutionized industries like finance, healthcare, and e-commerce. While it offers powerful predictive capabilities, the use of large datasets raises concerns about privacy and the ethical use of personal information.",
+        "question": "What is a concern with machine learning?",
+        "options": ["Privacy", "Predictive capabilities", "Data analysis", "Automation"],
+        "answer": "Privacy"
+      },
+      {
+        "id": 80,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "3D printing technology allows for the creation of three-dimensional objects from digital designs. It is used in industries such as healthcare, manufacturing, and education. However, limitations in materials and printing speed still hinder its widespread adoption.",
+        "question": "What is a limitation of 3D printing?",
+        "options": ["Limited materials", "Low cost", "High speed", "Better designs"],
+        "answer": "Limited materials"
+      },
+      {
+        "id": 81,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Smart home devices, such as thermostats, security cameras, and lights, are becoming increasingly popular. These devices make daily tasks more convenient but also raise concerns regarding privacy, security, and the integration of multiple systems.",
+        "question": "What is a concern with smart home devices?",
+        "options": ["Privacy", "Convenience", "Energy efficiency", "Integration"],
+        "answer": "Privacy"
+      },
+      {
+        "id": 82,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Blockchain technology is used to store data in a decentralized, secure manner. It has applications in areas like cryptocurrency and supply chain management. However, the energy consumption associated with maintaining the blockchain network is a growing concern.",
+        "question": "What is a concern with blockchain technology?",
+        "options": ["Energy consumption", "Transparency", "Security", "Decentralization"],
+        "answer": "Energy consumption"
+      },
+      {
+        "id": 83,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Cloud computing allows users to store and access data and applications over the internet. It offers scalability, cost-efficiency, and flexibility. However, concerns about data privacy, security breaches, and reliance on internet connectivity remain important.",
+        "question": "What is a concern with cloud computing?",
+        "options": ["Data privacy", "Flexibility", "Scalability", "Cost-efficiency"],
+        "answer": "Data privacy"
+      },
+      {
+        "id": 84,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Electric vehicles (EVs) are considered a sustainable alternative to gasoline-powered cars. They reduce greenhouse gas emissions and promote cleaner air. However, the environmental impact of manufacturing EV batteries remains a significant concern.",
+        "question": "What is a concern with electric vehicles?",
+        "options": ["Battery manufacturing impact", "High fuel consumption", "Increased pollution", "Shorter battery life"],
+        "answer": "Battery manufacturing impact"
+      },
+      {
+        "id": 85,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Social media platforms connect people from all over the world, allowing for the exchange of ideas, experiences, and information. However, they also raise concerns about online harassment, misinformation, and the spread of harmful content.",
+        "question": "What is a concern about social media?",
+        "options": ["Misinformation", "Networking opportunities", "Online connectivity", "Information sharing"],
+        "answer": "Misinformation"
+      },
+      {
+        "id": 86,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Self-driving cars are equipped with sensors, cameras, and AI technology that enable them to navigate roads without human intervention. While they promise to improve road safety and reduce traffic, they also raise ethical and regulatory concerns.",
+        "question": "What is a concern with self-driving cars?",
+        "options": ["Ethical concerns", "Traffic reduction", "Improved safety", "Cost reduction"],
+        "answer": "Ethical concerns"
+      },
+      {
+        "id": 87,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The rise of e-commerce has transformed the retail industry. Online shopping offers convenience and a wider range of products. However, challenges such as data privacy, shipping costs, and the environmental impact of packaging continue to be major concerns.",
+        "question": "What is a challenge of e-commerce?",
+        "options": ["Data privacy", "Convenience", "Product range", "Global reach"],
+        "answer": "Data privacy"
+      },
+      {
+        "id": 88,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Gene editing technologies, such as CRISPR, have the potential to treat genetic diseases and enhance agricultural practices. However, the possibility of unintended genetic consequences and ethical issues related to genetic manipulation remain significant concerns.",
+        "question": "What is a concern with gene editing?",
+        "options": ["Unintended genetic consequences", "Improved agriculture", "Genetic enhancement", "Disease treatment"],
+        "answer": "Unintended genetic consequences"
+      },
+      {
+        "id": 89,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Quantum computing has the potential to solve complex problems much faster than classical computers. However, quantum computers are still in the early stages of development, and challenges related to error correction and quantum coherence must be overcome.",
+        "question": "What is a challenge with quantum computing?",
+        "options": ["Error correction", "Faster calculations", "Cost reduction", "Power efficiency"],
+        "answer": "Error correction"
+      },
+      {
+        "id": 90,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Artificial intelligence (AI) can automate various tasks across industries, from healthcare to finance. However, there are concerns about AI replacing human workers, ethical considerations in decision-making, and the potential for biased algorithms.",
+        "question": "What is a concern about artificial intelligence?",
+        "options": ["Job displacement", "Automation", "Efficiency", "Predictive analysis"],
+        "answer": "Job displacement"
+      },
+      {
+        "id": 91,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The Internet of Things (IoT) connects various devices to the internet, making everyday objects smarter. While IoT improves convenience, it also raises concerns about privacy, security, and data management.",
+        "question": "What is a concern about the Internet of Things?",
+        "options": ["Privacy", "Smart devices", "Connectivity", "Automation"],
+        "answer": "Privacy"
+      },
+      {
+        "id": 92,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Blockchain technology is a decentralized ledger system that records transactions securely. Despite its potential to revolutionize industries, its scalability and environmental impact are significant challenges.",
+        "question": "What is a challenge with blockchain technology?",
+        "options": ["Scalability", "Security", "Decentralization", "Transparency"],
+        "answer": "Scalability"
+      },
+      {
+        "id": 93,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Electric cars are seen as a cleaner alternative to traditional gasoline-powered vehicles. However, the environmental impact of producing and disposing of lithium-ion batteries is a concern.",
+        "question": "What is a concern with electric cars?",
+        "options": ["Battery disposal", "Fuel efficiency", "Air pollution", "Cost of fuel"],
+        "answer": "Battery disposal"
+      },
+      {
+        "id": 94,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Cloud computing enables businesses to store data and applications online, offering flexibility and scalability. However, issues such as data breaches, downtime, and dependency on internet connectivity remain important considerations.",
+        "question": "What is a concern with cloud computing?",
+        "options": ["Data breaches", "Cost efficiency", "Storage capacity", "Connectivity"],
+        "answer": "Data breaches"
+      },
+      {
+        "id": 95,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Gene editing technologies, like CRISPR, have the potential to cure genetic diseases. However, there are concerns about the ethical implications and the long-term effects of altering the human genome.",
+        "question": "What is a concern with gene editing?",
+        "options": ["Ethical implications", "Improved health", "Curing diseases", "Cost of treatment"],
+        "answer": "Ethical implications"
+      },
+      {
+        "id": 96,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Artificial intelligence can help in various sectors like healthcare, finance, and education by automating tasks and providing intelligent insights. However, it also raises concerns about job displacement and reliance on technology.",
+        "question": "What is a concern with artificial intelligence?",
+        "options": ["Job displacement", "Increased efficiency", "Cost reduction", "Predictive analysis"],
+        "answer": "Job displacement"
+      },
+      {
+        "id": 97,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Self-driving cars have the potential to reduce traffic accidents and increase road safety. However, issues related to regulatory standards, safety protocols, and public trust need to be addressed.",
+        "question": "What is a concern with self-driving cars?",
+        "options": ["Regulatory standards", "Traffic congestion", "Energy consumption", "Road maintenance"],
+        "answer": "Regulatory standards"
+      },
+      {
+        "id": 98,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Virtual reality (VR) creates immersive experiences by simulating real-world environments. While it can enhance learning and entertainment, the potential for addiction and the high cost of VR equipment are notable concerns.",
+        "question": "What is a concern with virtual reality?",
+        "options": ["Addiction", "Entertainment value", "Learning benefits", "Cost of equipment"],
+        "answer": "Addiction"
+      },
+      {
+        "id": 99,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Cryptocurrencies offer decentralized financial systems that can reduce reliance on traditional banking institutions. However, the lack of regulation and potential for illegal transactions are key challenges for cryptocurrencies.",
+        "question": "What is a concern with cryptocurrencies?",
+        "options": ["Lack of regulation", "Faster transactions", "Lower fees", "Global reach"],
+        "answer": "Lack of regulation"
+      },
+      {
+        "id": 100,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "The rise of e-commerce has reshaped retail, offering convenience and a wider selection of goods. However, challenges related to product quality, shipping times, and customer service remain prevalent in online shopping.",
+        "question": "What is a challenge with e-commerce?",
+        "options": ["Shipping times", "Product variety", "Convenience", "Customer support"],
+        "answer": "Shipping times"
+      },
+      {
+        "id": 101,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "3D printing has the potential to revolutionize manufacturing by enabling rapid prototyping and custom product design. However, the limited range of printable materials and slow production speeds are ongoing challenges.",
+        "question": "What is a challenge with 3D printing?",
+        "options": ["Limited materials", "Production speed", "Customization", "Cost of printing"],
+        "answer": "Limited materials"
+      },
+      {
+        "id": 102,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Machine learning algorithms are becoming essential in industries such as healthcare, finance, and e-commerce. Despite their potential, they can be influenced by biased data, leading to inaccurate predictions and decisions.",
+        "question": "What is a concern with machine learning?",
+        "options": ["Biased data", "Accuracy of predictions", "Predictive power", "Data availability"],
+        "answer": "Biased data"
+      },
+      {
+        "id": 103,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Cloud storage allows individuals and businesses to store data remotely and access it from anywhere. Despite its benefits, cloud storage is susceptible to hacking and data breaches.",
+        "question": "What is a concern with cloud storage?",
+        "options": ["Data breaches", "Convenience", "Cost efficiency", "Data availability"],
+        "answer": "Data breaches"
+      },
+      {
+        "id": 104,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Gene therapy has the potential to treat genetic disorders by altering an individual's DNA. However, there are concerns regarding the long-term effects and unintended consequences of these treatments.",
+        "question": "What is a concern with gene therapy?",
+        "options": ["Long-term effects", "Curing genetic disorders", "Treatment efficiency", "Healthcare cost reduction"],
+        "answer": "Long-term effects"
+      },
+      {
+        "id": 105,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Quantum computing has the potential to solve complex problems that classical computers cannot handle. However, quantum systems are still in early development stages, and there are issues related to stability and error correction.",
+        "question": "What is a challenge with quantum computing?",
+        "options": ["Error correction", "Speed of calculations", "Cost of development", "Energy efficiency"],
+        "answer": "Error correction"
+      },
+      {
+        "id": 106,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Augmented reality (AR) overlays digital information onto the real world, enhancing experiences in gaming, education, and design. Despite its potential, AR faces challenges related to hardware limitations and user acceptance.",
+        "question": "What is a challenge with augmented reality?",
+        "options": ["Hardware limitations", "User engagement", "Entertainment value", "Customization options"],
+        "answer": "Hardware limitations"
+      },
+      {
+        "id": 107,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Digital currencies, such as Bitcoin, operate on blockchain technology and offer decentralized financial systems. However, the volatility of cryptocurrencies and regulatory concerns hinder their widespread adoption.",
+        "question": "What is a challenge with digital currencies?",
+        "options": ["Volatility", "Security", "Decentralization", "Global access"],
+        "answer": "Volatility"
+      },
+      {
+        "id": 108,
+        "difficulty": "multiple choice question",
+        "tag": "long answer question",
+        "context": "Self-driving cars use sensors, cameras, and artificial intelligence to navigate roads. While they offer the potential for improved road safety, their integration into existing infrastructure poses significant challenges.",
+        "question": "What is a challenge with self-driving cars?",
+        "options": ["Infrastructure integration", "Cost of manufacturing", "Battery efficiency", "Speed limitations"],
+        "answer": "Infrastructure integration"
+      }
+  ]
+
+  
